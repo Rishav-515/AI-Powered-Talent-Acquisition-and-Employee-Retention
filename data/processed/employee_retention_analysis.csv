@@ -1,0 +1,1471 @@
+EmployeeNumber,Department,JobRole,AttritionProbability,RiskCategory,ReviewPriority,RecommendationCount,RecommendationCategories
+1,Sales,Sales Executive,44.96,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+2,Research & Development,Research Scientist,19.07,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+4,Research & Development,Laboratory Technician,64.92,High,High,3,Workload Management; Workplace Relationships; Employee Engagement
+5,Research & Development,Research Scientist,62.09,High,High,1,Workload Management
+7,Research & Development,Laboratory Technician,47.9,Moderate,Medium,2,Employee Engagement; Work Environment
+8,Research & Development,Laboratory Technician,16.48,Low,Low,1,Work-Life Balance
+10,Research & Development,Laboratory Technician,33.45,Moderate,Medium,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+11,Research & Development,Laboratory Technician,46.86,Moderate,Medium,1,Workplace Relationships
+12,Research & Development,Manufacturing Director,16.69,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+13,Research & Development,Healthcare Representative,22.04,Low,Low,4,Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+14,Research & Development,Laboratory Technician,17.38,Low,Low,2,Employee Engagement; Work Environment
+15,Research & Development,Laboratory Technician,42.97,Moderate,Medium,3,Workload Management; Employee Engagement; Career and Managerial Support
+16,Research & Development,Research Scientist,18.86,Low,Low,2,Work-Life Balance; Work Environment
+18,Research & Development,Laboratory Technician,30.47,Moderate,Medium,1,Work Environment
+19,Research & Development,Laboratory Technician,90.21,High,High,3,Workload Management; Workplace Relationships; Employee Engagement
+20,Research & Development,Manufacturing Director,26.56,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+21,Research & Development,Research Scientist,50.21,Moderate,Medium,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+22,Research & Development,Laboratory Technician,63.95,High,High,3,Workload Management; Work-Life Balance; Workplace Relationships
+23,Sales,Manager,19.0,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+24,Research & Development,Research Scientist,34.44,Moderate,Medium,1,Workload Management
+26,Research & Development,Manufacturing Director,15.12,Low,Low,2,Work-Life Balance; Work Environment
+27,Sales,Sales Representative,72.41,High,High,3,Employee Engagement; Workplace Relationships; Employee Engagement
+28,Research & Development,Research Director,17.17,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+30,Research & Development,Research Scientist,71.9,High,High,0,
+31,Research & Development,Research Scientist,30.14,Moderate,Medium,2,Employee Engagement; Work Environment
+32,Research & Development,Manager,10.34,Low,Low,2,Work-Life Balance; Career and Managerial Support
+33,Research & Development,Research Scientist,85.87,High,High,7,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+35,Sales,Sales Executive,24.86,Low,Low,1,Employee Engagement
+36,Research & Development,Healthcare Representative,15.42,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+38,Sales,Manager,16.91,Low,Low,3,Employee Engagement; Work-Life Balance; Work Environment
+39,Research & Development,Laboratory Technician,33.85,Moderate,Medium,0,
+40,Research & Development,Healthcare Representative,18.23,Low,Low,1,Workload Management
+41,Research & Development,Laboratory Technician,33.48,Moderate,Medium,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+42,Sales,Sales Representative,21.54,Low,Low,0,
+45,Research & Development,Research Scientist,54.81,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+46,Research & Development,Research Scientist,10.82,Low,Low,1,Work-Life Balance
+47,Sales,Sales Representative,49.3,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+49,Sales,Sales Representative,40.51,Moderate,Medium,1,Workplace Relationships
+51,Research & Development,Research Scientist,36.37,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Employee Engagement
+52,Sales,Sales Executive,21.53,Low,Low,2,Employee Engagement; Workplace Relationships
+53,Research & Development,Laboratory Technician,45.98,Moderate,Medium,0,
+54,Research & Development,Laboratory Technician,66.37,High,High,1,Employee Engagement
+55,Research & Development,Laboratory Technician,87.57,High,High,3,Work-Life Balance; Work Environment; Employee Engagement
+56,Sales,Sales Executive,24.03,Low,Low,1,Career and Managerial Support
+57,Research & Development,Laboratory Technician,19.11,Low,Low,1,Career and Managerial Support
+58,Research & Development,Research Director,11.86,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+60,Sales,Sales Executive,36.05,Moderate,Medium,3,Work Environment; Career Development; Career and Managerial Support
+61,Research & Development,Research Scientist,36.91,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+62,Sales,Sales Executive,39.94,Moderate,Medium,3,Workload Management; Work Environment; Career and Managerial Support
+63,Research & Development,Laboratory Technician,40.16,Moderate,Medium,0,
+64,Research & Development,Laboratory Technician,73.39,High,High,3,Workload Management; Work Environment; Employee Engagement
+65,Research & Development,Laboratory Technician,69.82,High,High,2,Workload Management; Work-Life Balance
+68,Sales,Sales Executive,28.2,Low,Low,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+70,Research & Development,Healthcare Representative,25.81,Low,Low,3,Workload Management; Employee Engagement; Employee Engagement
+72,Sales,Sales Executive,47.11,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+73,Research & Development,Research Director,34.29,Moderate,Medium,4,Workload Management; Work Environment; Career Development; Career and Managerial Support
+74,Sales,Sales Executive,23.35,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Career and Managerial Support
+75,Research & Development,Laboratory Technician,32.35,Moderate,Medium,2,Workload Management; Employee Engagement
+76,Research & Development,Laboratory Technician,15.48,Low,Low,2,Work-Life Balance; Career and Managerial Support
+77,Research & Development,Manufacturing Director,11.5,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+78,Research & Development,Manufacturing Director,24.36,Low,Low,5,Workload Management; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+79,Research & Development,Laboratory Technician,27.32,Low,Low,2,Career Development; Career and Managerial Support
+80,Research & Development,Research Director,26.34,Low,Low,6,Workload Management; Work-Life Balance; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+81,Sales,Sales Executive,32.77,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+83,Research & Development,Healthcare Representative,13.87,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+84,Research & Development,Manager,18.25,Low,Low,1,Workload Management
+85,Research & Development,Manufacturing Director,22.84,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+86,Research & Development,Research Scientist,17.19,Low,Low,2,Employee Engagement; Work Environment
+88,Research & Development,Research Scientist,23.09,Low,Low,3,Employee Engagement; Work-Life Balance; Work Environment
+90,Research & Development,Research Scientist,51.2,Moderate,Medium,4,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement
+91,Sales,Sales Executive,39.49,Moderate,Medium,3,Work-Life Balance; Work Environment; Employee Engagement
+94,Research & Development,Research Scientist,10.88,Low,Low,1,Employee Engagement
+95,Research & Development,Research Scientist,60.57,High,High,2,Employee Engagement; Workplace Relationships
+96,Research & Development,Research Scientist,10.8,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+97,Research & Development,Laboratory Technician,25.75,Low,Low,2,Work Environment; Workplace Relationships
+98,Research & Development,Manufacturing Director,17.37,Low,Low,1,Career and Managerial Support
+100,Sales,Sales Executive,31.13,Moderate,Medium,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+101,Research & Development,Research Director,37.77,Moderate,Medium,3,Workload Management; Employee Engagement; Workplace Relationships
+102,Research & Development,Research Director,24.31,Low,Low,2,Work Environment; Workplace Relationships
+103,Human Resources,Human Resources,27.58,Low,Low,3,Workload Management; Employee Engagement; Work Environment
+104,Research & Development,Laboratory Technician,31.1,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+105,Research & Development,Research Scientist,26.78,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+106,Sales,Sales Executive,32.69,Moderate,Medium,1,Work Environment
+107,Research & Development,Research Scientist,15.66,Low,Low,4,Workload Management; Work Environment; Employee Engagement; Career and Managerial Support
+110,Research & Development,Manufacturing Director,16.08,Low,Low,2,Employee Engagement; Work Environment
+112,Research & Development,Manufacturing Director,20.43,Low,Low,3,Work-Life Balance; Workplace Relationships; Employee Engagement
+113,Sales,Sales Representative,65.69,High,High,1,Employee Engagement
+116,Research & Development,Laboratory Technician,22.14,Low,Low,1,Workplace Relationships
+117,Research & Development,Healthcare Representative,18.25,Low,Low,4,Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+118,Sales,Sales Executive,59.63,Moderate,Medium,2,Employee Engagement; Career and Managerial Support
+119,Research & Development,Healthcare Representative,13.52,Low,Low,5,Employee Engagement; Work-Life Balance; Career Development; Employee Engagement; Career and Managerial Support
+120,Sales,Sales Executive,44.8,Moderate,Medium,2,Workload Management; Work-Life Balance
+121,Sales,Sales Executive,22.89,Low,Low,6,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+124,Research & Development,Healthcare Representative,21.74,Low,Low,5,Workload Management; Employee Engagement; Work-Life Balance; Career Development; Employee Engagement
+125,Sales,Sales Executive,29.05,Low,Low,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+126,Research & Development,Research Director,23.84,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+128,Sales,Sales Executive,14.24,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+129,Sales,Sales Executive,17.16,Low,Low,2,Work Environment; Workplace Relationships
+131,Sales,Sales Executive,26.87,Low,Low,2,Work-Life Balance; Career and Managerial Support
+132,Research & Development,Laboratory Technician,18.34,Low,Low,2,Employee Engagement; Work Environment
+133,Human Resources,Human Resources,80.94,High,High,2,Workload Management; Employee Engagement
+134,Research & Development,Research Scientist,51.64,Moderate,Medium,1,Employee Engagement
+137,Research & Development,Laboratory Technician,92.84,High,High,3,Workload Management; Workplace Relationships; Employee Engagement
+138,Research & Development,Research Scientist,18.25,Low,Low,2,Work Environment; Career and Managerial Support
+139,Research & Development,Healthcare Representative,26.44,Low,Low,1,Employee Engagement
+140,Human Resources,Manager,11.79,Low,Low,1,Employee Engagement
+141,Research & Development,Research Director,31.21,Moderate,Medium,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+142,Sales,Sales Executive,69.62,High,High,2,Workload Management; Employee Engagement
+143,Research & Development,Research Scientist,31.65,Moderate,Medium,1,Employee Engagement
+144,Research & Development,Laboratory Technician,79.49,High,High,1,Work Environment
+145,Research & Development,Healthcare Representative,21.16,Low,Low,6,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+147,Research & Development,Laboratory Technician,76.23,High,High,3,Workload Management; Work Environment; Employee Engagement
+148,Human Resources,Manager,26.47,Low,Low,1,Workload Management
+150,Research & Development,Laboratory Technician,22.87,Low,Low,1,Work Environment
+151,Research & Development,Research Scientist,28.52,Low,Low,2,Employee Engagement; Employee Engagement
+152,Sales,Sales Executive,21.65,Low,Low,1,Workplace Relationships
+153,Research & Development,Manager,18.78,Low,Low,4,Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+154,Sales,Sales Executive,20.63,Low,Low,2,Work Environment; Career and Managerial Support
+155,Research & Development,Laboratory Technician,35.59,Moderate,Medium,2,Work Environment; Workplace Relationships
+158,Sales,Manager,17.62,Low,Low,2,Workload Management; Career and Managerial Support
+159,Research & Development,Research Scientist,41.0,Moderate,Medium,4,Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+160,Sales,Sales Executive,17.58,Low,Low,3,Employee Engagement; Workplace Relationships; Career and Managerial Support
+161,Research & Development,Research Scientist,37.21,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+162,Research & Development,Research Director,19.51,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+163,Sales,Sales Executive,81.18,High,High,7,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+164,Research & Development,Research Scientist,32.15,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Employee Engagement
+165,Research & Development,Healthcare Representative,19.46,Low,Low,2,Work-Life Balance; Career Development
+167,Sales,Sales Representative,93.52,High,High,2,Workload Management; Work-Life Balance
+169,Research & Development,Laboratory Technician,36.69,Moderate,Medium,0,
+170,Research & Development,Manufacturing Director,27.46,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+171,Research & Development,Research Scientist,18.24,Low,Low,1,Work Environment
+174,Sales,Sales Executive,31.1,Moderate,Medium,0,
+175,Sales,Sales Executive,45.77,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+176,Sales,Sales Executive,23.86,Low,Low,2,Workload Management; Career and Managerial Support
+177,Human Resources,Human Resources,19.59,Low,Low,2,Career Development; Career and Managerial Support
+178,Research & Development,Manufacturing Director,31.81,Moderate,Medium,2,Employee Engagement; Work Environment
+179,Research & Development,Manufacturing Director,19.56,Low,Low,2,Work Environment; Employee Engagement
+182,Sales,Sales Executive,15.13,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+183,Sales,Sales Executive,43.62,Moderate,Medium,2,Work Environment; Employee Engagement
+184,Human Resources,Human Resources,28.62,Low,Low,3,Workload Management; Work-Life Balance; Career and Managerial Support
+190,Research & Development,Laboratory Technician,76.0,High,High,3,Employee Engagement; Work Environment; Workplace Relationships
+192,Research & Development,Research Scientist,31.89,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+193,Research & Development,Research Scientist,26.41,Low,Low,2,Workload Management; Workplace Relationships
+194,Research & Development,Research Scientist,30.84,Moderate,Medium,2,Work-Life Balance; Work Environment
+195,Sales,Sales Executive,24.24,Low,Low,2,Employee Engagement; Career and Managerial Support
+197,Research & Development,Research Scientist,26.76,Low,Low,1,Employee Engagement
+198,Research & Development,Laboratory Technician,22.0,Low,Low,2,Work Environment; Employee Engagement
+199,Research & Development,Manager,16.96,Low,Low,6,Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+200,Research & Development,Laboratory Technician,27.35,Low,Low,1,Employee Engagement
+201,Research & Development,Laboratory Technician,76.41,High,High,2,Employee Engagement; Work Environment
+202,Research & Development,Research Scientist,15.69,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+204,Sales,Sales Executive,26.22,Low,Low,2,Employee Engagement; Workplace Relationships
+205,Sales,Sales Representative,29.07,Low,Low,3,Workload Management; Work-Life Balance; Work Environment
+206,Research & Development,Laboratory Technician,39.97,Moderate,Medium,4,Employee Engagement; Work-Life Balance; Work Environment; Career and Managerial Support
+207,Sales,Sales Executive,23.68,Low,Low,2,Work Environment; Career and Managerial Support
+208,Research & Development,Manufacturing Director,20.48,Low,Low,2,Workplace Relationships; Career and Managerial Support
+211,Research & Development,Manufacturing Director,25.07,Low,Low,2,Work Environment; Employee Engagement
+214,Research & Development,Research Scientist,31.01,Moderate,Medium,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+215,Sales,Sales Executive,36.74,Moderate,Medium,4,Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+216,Sales,Sales Representative,33.68,Moderate,Medium,0,
+217,Research & Development,Research Scientist,35.12,Moderate,Medium,1,Workplace Relationships
+218,Research & Development,Research Scientist,45.44,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+221,Research & Development,Research Scientist,33.57,Moderate,Medium,1,Work-Life Balance
+223,Research & Development,Healthcare Representative,31.78,Moderate,Medium,3,Workload Management; Work-Life Balance; Workplace Relationships
+224,Research & Development,Research Scientist,52.24,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+226,Research & Development,Manager,7.96,Low,Low,2,Employee Engagement; Workplace Relationships
+227,Research & Development,Research Scientist,23.15,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+228,Sales,Sales Executive,22.27,Low,Low,2,Work Environment; Career Development
+230,Sales,Sales Executive,20.67,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+231,Research & Development,Research Scientist,34.71,Moderate,Medium,1,Workplace Relationships
+233,Research & Development,Research Scientist,37.62,Moderate,Medium,3,Workload Management; Employee Engagement; Work-Life Balance
+235,Sales,Sales Representative,86.47,High,High,3,Employee Engagement; Workplace Relationships; Employee Engagement
+238,Research & Development,Laboratory Technician,27.24,Low,Low,3,Employee Engagement; Work-Life Balance; Career Development
+239,Research & Development,Laboratory Technician,30.98,Moderate,Medium,3,Employee Engagement; Career Development; Career and Managerial Support
+240,Sales,Sales Executive,23.2,Low,Low,3,Workload Management; Employee Engagement; Workplace Relationships
+241,Research & Development,Research Scientist,25.75,Low,Low,2,Workload Management; Employee Engagement
+242,Research & Development,Research Scientist,20.73,Low,Low,1,Workplace Relationships
+243,Research & Development,Laboratory Technician,83.77,High,High,3,Work-Life Balance; Work Environment; Employee Engagement
+244,Sales,Sales Executive,20.12,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+245,Research & Development,Laboratory Technician,36.68,Moderate,Medium,0,
+246,Research & Development,Research Scientist,41.07,Moderate,Medium,1,Workload Management
+247,Research & Development,Research Scientist,29.01,Low,Low,1,Employee Engagement
+248,Sales,Sales Representative,65.22,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+249,Research & Development,Laboratory Technician,17.73,Low,Low,2,Work-Life Balance; Employee Engagement
+250,Research & Development,Manufacturing Director,13.14,Low,Low,1,Employee Engagement
+252,Research & Development,Research Scientist,11.24,Low,Low,1,Employee Engagement
+253,Research & Development,Manager,5.14,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+254,Research & Development,Research Director,19.42,Low,Low,2,Employee Engagement; Career and Managerial Support
+256,Research & Development,Manufacturing Director,17.43,Low,Low,3,Work-Life Balance; Employee Engagement; Career and Managerial Support
+258,Research & Development,Healthcare Representative,12.21,Low,Low,1,Employee Engagement
+259,Research & Development,Manager,9.74,Low,Low,4,Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+260,Research & Development,Research Scientist,25.75,Low,Low,2,Employee Engagement; Work-Life Balance
+261,Research & Development,Manufacturing Director,80.49,High,High,4,Workload Management; Work Environment; Workplace Relationships; Employee Engagement
+262,Research & Development,Research Scientist,12.31,Low,Low,0,
+264,Research & Development,Manager,15.54,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+267,Research & Development,Research Scientist,48.38,Moderate,Medium,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+269,Research & Development,Laboratory Technician,33.26,Moderate,Medium,2,Employee Engagement; Work Environment
+270,Research & Development,Manufacturing Director,10.96,Low,Low,1,Workplace Relationships
+271,Research & Development,Manufacturing Director,31.18,Moderate,Medium,1,Workplace Relationships
+273,Research & Development,Manufacturing Director,24.36,Low,Low,3,Work-Life Balance; Workplace Relationships; Career and Managerial Support
+274,Research & Development,Manufacturing Director,38.81,Moderate,Medium,2,Employee Engagement; Employee Engagement
+275,Research & Development,Manufacturing Director,20.92,Low,Low,3,Workload Management; Workplace Relationships; Career and Managerial Support
+277,Research & Development,Research Scientist,43.36,Moderate,Medium,1,Workload Management
+281,Research & Development,Laboratory Technician,27.66,Low,Low,2,Workload Management; Career and Managerial Support
+282,Research & Development,Healthcare Representative,77.94,High,High,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+283,Sales,Sales Executive,30.46,Moderate,Medium,3,Work-Life Balance; Work Environment; Career and Managerial Support
+284,Research & Development,Research Scientist,55.13,Moderate,Medium,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+286,Research & Development,Laboratory Technician,31.83,Moderate,Medium,3,Work Environment; Workplace Relationships; Career and Managerial Support
+287,Research & Development,Healthcare Representative,24.07,Low,Low,2,Work-Life Balance; Employee Engagement
+288,Research & Development,Healthcare Representative,22.12,Low,Low,1,Employee Engagement
+291,Sales,Sales Executive,65.06,High,High,4,Work-Life Balance; Career Development; Employee Engagement; Career and Managerial Support
+292,Research & Development,Manufacturing Director,17.39,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+293,Sales,Sales Executive,19.66,Low,Low,1,Career and Managerial Support
+296,Research & Development,Research Director,29.41,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+297,Research & Development,Research Scientist,78.86,High,High,2,Workload Management; Employee Engagement
+298,Sales,Manager,36.48,Moderate,Medium,1,Workload Management
+299,Sales,Sales Executive,82.83,High,High,3,Employee Engagement; Work-Life Balance; Employee Engagement
+300,Research & Development,Research Scientist,17.94,Low,Low,1,Work-Life Balance
+302,Sales,Sales Executive,30.12,Moderate,Medium,3,Career Development; Employee Engagement; Career and Managerial Support
+303,Sales,Sales Executive,15.55,Low,Low,1,Employee Engagement
+304,Research & Development,Laboratory Technician,19.45,Low,Low,2,Employee Engagement; Career and Managerial Support
+305,Research & Development,Research Scientist,37.0,Moderate,Medium,2,Employee Engagement; Employee Engagement
+306,Research & Development,Research Director,27.5,Low,Low,3,Workload Management; Work Environment; Career and Managerial Support
+307,Sales,Sales Executive,25.69,Low,Low,4,Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+308,Research & Development,Manufacturing Director,22.26,Low,Low,1,Employee Engagement
+309,Research & Development,Research Scientist,20.51,Low,Low,2,Workplace Relationships; Employee Engagement
+311,Sales,Sales Representative,26.37,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+312,Sales,Sales Executive,19.07,Low,Low,1,Work Environment
+314,Sales,Sales Executive,17.5,Low,Low,2,Workplace Relationships; Career and Managerial Support
+315,Research & Development,Research Scientist,60.41,High,High,3,Workload Management; Work-Life Balance; Employee Engagement
+316,Research & Development,Laboratory Technician,29.01,Low,Low,3,Work-Life Balance; Workplace Relationships; Employee Engagement
+319,Research & Development,Manager,11.42,Low,Low,2,Career Development; Career and Managerial Support
+321,Human Resources,Human Resources,37.78,Moderate,Medium,2,Work-Life Balance; Work Environment
+323,Sales,Manager,13.34,Low,Low,1,Work-Life Balance
+325,Research & Development,Laboratory Technician,84.99,High,High,2,Workload Management; Work-Life Balance
+327,Sales,Manager,16.65,Low,Low,2,Workload Management; Career and Managerial Support
+328,Research & Development,Laboratory Technician,69.76,High,High,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+329,Sales,Manager,40.78,Moderate,Medium,5,Workload Management; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+330,Sales,Sales Representative,29.7,Low,Low,2,Employee Engagement; Workplace Relationships
+331,Research & Development,Laboratory Technician,53.84,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+332,Research & Development,Laboratory Technician,24.14,Low,Low,0,
+333,Sales,Sales Executive,34.8,Moderate,Medium,1,Workplace Relationships
+334,Research & Development,Research Scientist,31.46,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+335,Research & Development,Research Scientist,13.48,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+336,Research & Development,Manager,14.28,Low,Low,1,Career and Managerial Support
+337,Research & Development,Research Director,31.41,Moderate,Medium,2,Work Environment; Workplace Relationships
+338,Research & Development,Research Scientist,30.67,Moderate,Medium,2,Work-Life Balance; Employee Engagement
+339,Research & Development,Manufacturing Director,20.15,Low,Low,5,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+340,Research & Development,Research Scientist,8.63,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+341,Research & Development,Manufacturing Director,16.99,Low,Low,1,Work Environment
+342,Research & Development,Manufacturing Director,72.3,High,High,2,Work Environment; Workplace Relationships
+343,Research & Development,Healthcare Representative,12.0,Low,Low,2,Career Development; Career and Managerial Support
+346,Research & Development,Research Scientist,30.14,Moderate,Medium,1,Workplace Relationships
+347,Research & Development,Research Scientist,26.62,Low,Low,2,Workload Management; Employee Engagement
+349,Sales,Sales Executive,21.93,Low,Low,0,
+350,Research & Development,Manufacturing Director,12.42,Low,Low,1,Work Environment
+351,Research & Development,Laboratory Technician,43.84,Moderate,Medium,5,Workload Management; Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+352,Research & Development,Research Director,5.25,Low,Low,2,Work Environment; Career and Managerial Support
+353,Research & Development,Research Scientist,40.19,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+355,Research & Development,Laboratory Technician,73.64,High,High,3,Employee Engagement; Workplace Relationships; Employee Engagement
+359,Research & Development,Laboratory Technician,43.17,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Work Environment
+361,Sales,Sales Executive,19.64,Low,Low,2,Career Development; Employee Engagement
+362,Research & Development,Laboratory Technician,27.02,Low,Low,2,Employee Engagement; Employee Engagement
+363,Sales,Manager,27.2,Low,Low,7,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+364,Research & Development,Laboratory Technician,62.44,High,High,2,Work-Life Balance; Work Environment
+366,Sales,Sales Executive,37.1,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+367,Research & Development,Healthcare Representative,12.65,Low,Low,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+369,Research & Development,Healthcare Representative,13.78,Low,Low,2,Employee Engagement; Work Environment
+372,Research & Development,Healthcare Representative,13.91,Low,Low,3,Workload Management; Workplace Relationships; Career and Managerial Support
+373,Research & Development,Laboratory Technician,16.82,Low,Low,2,Career Development; Career and Managerial Support
+374,Research & Development,Manager,29.09,Low,Low,3,Workload Management; Employee Engagement; Career and Managerial Support
+376,Research & Development,Manager,67.78,High,High,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+377,Research & Development,Research Scientist,9.81,Low,Low,1,Work-Life Balance
+378,Sales,Sales Executive,22.83,Low,Low,1,Workplace Relationships
+379,Research & Development,Research Scientist,39.93,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+380,Research & Development,Research Director,16.19,Low,Low,3,Workload Management; Work Environment; Workplace Relationships
+381,Research & Development,Manager,15.91,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career Development
+382,Sales,Sales Executive,27.26,Low,Low,5,Workload Management; Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+384,Research & Development,Manufacturing Director,30.79,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+385,Research & Development,Research Director,12.64,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+386,Research & Development,Research Director,17.58,Low,Low,2,Workload Management; Work-Life Balance
+387,Sales,Sales Executive,19.91,Low,Low,2,Work Environment; Career Development
+388,Sales,Sales Executive,25.27,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+389,Research & Development,Laboratory Technician,23.33,Low,Low,3,Workload Management; Work Environment; Career and Managerial Support
+390,Research & Development,Healthcare Representative,42.04,Moderate,Medium,3,Workload Management; Employee Engagement; Work Environment
+391,Research & Development,Research Scientist,20.49,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+392,Research & Development,Laboratory Technician,77.25,High,High,2,Workload Management; Work-Life Balance
+393,Research & Development,Healthcare Representative,18.59,Low,Low,1,Workplace Relationships
+394,Research & Development,Laboratory Technician,69.04,High,High,3,Workload Management; Employee Engagement; Work Environment
+395,Research & Development,Research Scientist,13.08,Low,Low,0,
+396,Research & Development,Research Director,34.87,Moderate,Medium,2,Workload Management; Employee Engagement
+397,Research & Development,Research Scientist,27.91,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+399,Sales,Sales Representative,55.91,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+401,Sales,Sales Executive,46.91,Moderate,Medium,4,Workload Management; Workplace Relationships; Career Development; Employee Engagement
+403,Research & Development,Research Scientist,44.73,Moderate,Medium,3,Workload Management; Work-Life Balance; Work Environment
+404,Sales,Sales Executive,26.52,Low,Low,2,Employee Engagement; Career and Managerial Support
+405,Research & Development,Laboratory Technician,91.64,High,High,0,
+406,Sales,Sales Executive,22.95,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+407,Research & Development,Laboratory Technician,26.0,Low,Low,0,
+408,Research & Development,Manufacturing Director,16.89,Low,Low,2,Employee Engagement; Employee Engagement
+410,Sales,Manager,11.29,Low,Low,2,Employee Engagement; Workplace Relationships
+411,Sales,Sales Representative,84.44,High,High,2,Workplace Relationships; Employee Engagement
+412,Research & Development,Healthcare Representative,18.98,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+416,Sales,Sales Executive,40.07,Moderate,Medium,5,Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+417,Research & Development,Healthcare Representative,8.71,Low,Low,3,Work-Life Balance; Workplace Relationships; Career and Managerial Support
+419,Research & Development,Laboratory Technician,17.78,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+420,Sales,Sales Executive,16.36,Low,Low,3,Work-Life Balance; Employee Engagement; Career and Managerial Support
+421,Research & Development,Research Director,15.71,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+422,Research & Development,Healthcare Representative,24.1,Low,Low,2,Workload Management; Employee Engagement
+423,Research & Development,Research Scientist,22.11,Low,Low,1,Workload Management
+424,Human Resources,Human Resources,47.09,Moderate,Medium,3,Employee Engagement; Work Environment; Employee Engagement
+425,Research & Development,Laboratory Technician,17.71,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+426,Research & Development,Research Scientist,46.01,Moderate,Medium,3,Workload Management; Work-Life Balance; Workplace Relationships
+428,Research & Development,Manager,31.41,Moderate,Medium,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+429,Research & Development,Manager,20.9,Low,Low,4,Workload Management; Employee Engagement; Career Development; Career and Managerial Support
+430,Research & Development,Laboratory Technician,26.61,Low,Low,2,Workplace Relationships; Career and Managerial Support
+431,Research & Development,Healthcare Representative,32.14,Moderate,Medium,3,Workload Management; Employee Engagement; Career and Managerial Support
+433,Research & Development,Research Scientist,23.57,Low,Low,6,Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+434,Research & Development,Research Scientist,73.0,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+436,Sales,Sales Executive,44.83,Moderate,Medium,5,Workload Management; Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+437,Sales,Sales Executive,46.6,Moderate,Medium,2,Workload Management; Workplace Relationships
+438,Sales,Sales Executive,17.35,Low,Low,1,Career and Managerial Support
+439,Research & Development,Research Scientist,24.85,Low,Low,3,Work-Life Balance; Work Environment; Career and Managerial Support
+440,Research & Development,Research Scientist,56.68,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+441,Research & Development,Research Scientist,10.15,Low,Low,1,Career and Managerial Support
+442,Research & Development,Manufacturing Director,26.76,Low,Low,4,Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+444,Research & Development,Manager,6.75,Low,Low,3,Workplace Relationships; Career Development; Employee Engagement
+445,Sales,Sales Executive,73.68,High,High,3,Workload Management; Work-Life Balance; Workplace Relationships
+446,Sales,Sales Executive,30.15,Moderate,Medium,3,Work-Life Balance; Work Environment; Employee Engagement
+447,Research & Development,Research Director,10.6,Low,Low,1,Workplace Relationships
+448,Research & Development,Laboratory Technician,37.74,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+449,Sales,Sales Executive,25.43,Low,Low,2,Workload Management; Employee Engagement
+450,Research & Development,Research Scientist,16.33,Low,Low,1,Work-Life Balance
+451,Research & Development,Healthcare Representative,32.29,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+452,Research & Development,Research Scientist,20.8,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+453,Sales,Sales Executive,23.41,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+454,Research & Development,Laboratory Technician,86.41,High,High,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+455,Research & Development,Laboratory Technician,27.42,Low,Low,2,Work Environment; Employee Engagement
+456,Sales,Sales Executive,21.84,Low,Low,1,Employee Engagement
+458,Sales,Sales Executive,16.72,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+460,Research & Development,Manufacturing Director,19.78,Low,Low,1,Work-Life Balance
+461,Research & Development,Research Director,13.54,Low,Low,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+462,Research & Development,Manufacturing Director,30.47,Moderate,Medium,3,Workload Management; Work-Life Balance; Career and Managerial Support
+463,Sales,Sales Executive,33.1,Moderate,Medium,5,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+464,Research & Development,Manufacturing Director,12.16,Low,Low,2,Employee Engagement; Career and Managerial Support
+465,Research & Development,Research Scientist,19.14,Low,Low,1,Work-Life Balance
+466,Research & Development,Manufacturing Director,34.2,Moderate,Medium,3,Workload Management; Employee Engagement; Employee Engagement
+467,Sales,Sales Representative,40.77,Moderate,Medium,2,Work Environment; Workplace Relationships
+468,Research & Development,Research Director,19.46,Low,Low,2,Work Environment; Workplace Relationships
+469,Sales,Sales Executive,13.78,Low,Low,2,Work-Life Balance; Workplace Relationships
+470,Human Resources,Human Resources,55.48,Moderate,Medium,1,Workload Management
+471,Research & Development,Laboratory Technician,21.88,Low,Low,2,Employee Engagement; Career and Managerial Support
+473,Sales,Manager,32.2,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+474,Research & Development,Research Scientist,21.95,Low,Low,5,Workload Management; Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+475,Sales,Sales Executive,40.09,Moderate,Medium,2,Workload Management; Workplace Relationships
+476,Sales,Sales Executive,17.59,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+477,Research & Development,Healthcare Representative,25.93,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+478,Sales,Sales Representative,78.97,High,High,4,Workload Management; Employee Engagement; Work Environment; Employee Engagement
+479,Sales,Sales Executive,24.94,Low,Low,1,Workplace Relationships
+481,Sales,Sales Executive,36.98,Moderate,Medium,4,Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+482,Research & Development,Healthcare Representative,17.0,Low,Low,0,
+483,Research & Development,Laboratory Technician,41.42,Moderate,Medium,2,Workload Management; Career and Managerial Support
+484,Sales,Sales Representative,37.12,Moderate,Medium,2,Work-Life Balance; Work Environment
+485,Sales,Sales Representative,91.73,High,High,2,Workload Management; Workplace Relationships
+486,Research & Development,Laboratory Technician,29.89,Low,Low,2,Employee Engagement; Workplace Relationships
+487,Research & Development,Manufacturing Director,18.39,Low,Low,0,
+488,Sales,Sales Executive,24.19,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+491,Research & Development,Healthcare Representative,20.56,Low,Low,1,Employee Engagement
+492,Sales,Sales Executive,65.75,High,High,3,Workload Management; Workplace Relationships; Employee Engagement
+493,Research & Development,Research Scientist,55.06,Moderate,Medium,3,Workload Management; Employee Engagement; Employee Engagement
+494,Sales,Sales Representative,86.59,High,High,1,Employee Engagement
+495,Research & Development,Research Scientist,34.25,Moderate,Medium,0,
+496,Research & Development,Healthcare Representative,33.66,Moderate,Medium,2,Employee Engagement; Employee Engagement
+497,Research & Development,Laboratory Technician,21.22,Low,Low,2,Employee Engagement; Workplace Relationships
+498,Sales,Sales Executive,28.34,Low,Low,2,Work Environment; Career and Managerial Support
+499,Research & Development,Healthcare Representative,21.92,Low,Low,2,Work Environment; Employee Engagement
+500,Sales,Sales Executive,26.61,Low,Low,2,Work-Life Balance; Career and Managerial Support
+501,Research & Development,Research Scientist,14.93,Low,Low,1,Workplace Relationships
+502,Sales,Sales Executive,77.33,High,High,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+505,Research & Development,Manager,15.45,Low,Low,1,Workload Management
+507,Sales,Sales Executive,18.38,Low,Low,1,Workload Management
+508,Sales,Sales Representative,74.06,High,High,2,Employee Engagement; Workplace Relationships
+510,Research & Development,Research Scientist,30.53,Moderate,Medium,1,Employee Engagement
+511,Research & Development,Research Scientist,44.77,Moderate,Medium,2,Employee Engagement; Work Environment
+513,Sales,Sales Executive,31.41,Moderate,Medium,4,Work Environment; Workplace Relationships; Career Development; Employee Engagement
+514,Research & Development,Research Scientist,76.97,High,High,1,Workload Management
+515,Research & Development,Laboratory Technician,22.38,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+516,Sales,Sales Executive,24.71,Low,Low,1,Employee Engagement
+517,Research & Development,Laboratory Technician,21.43,Low,Low,3,Employee Engagement; Work Environment; Workplace Relationships
+518,Research & Development,Manufacturing Director,46.14,Moderate,Medium,3,Workload Management; Employee Engagement; Work-Life Balance
+520,Research & Development,Research Director,11.02,Low,Low,4,Employee Engagement; Work Environment; Employee Engagement; Career and Managerial Support
+521,Research & Development,Laboratory Technician,19.88,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+522,Research & Development,Research Director,23.07,Low,Low,3,Employee Engagement; Work-Life Balance; Work Environment
+523,Sales,Sales Executive,20.81,Low,Low,1,Workplace Relationships
+524,Research & Development,Manufacturing Director,30.41,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+525,Research & Development,Laboratory Technician,27.22,Low,Low,1,Workplace Relationships
+526,Research & Development,Healthcare Representative,20.11,Low,Low,1,Workload Management
+527,Sales,Sales Executive,42.35,Moderate,Medium,4,Workload Management; Work Environment; Workplace Relationships; Employee Engagement
+529,Research & Development,Research Scientist,11.17,Low,Low,5,Workload Management; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+530,Research & Development,Laboratory Technician,22.41,Low,Low,2,Employee Engagement; Employee Engagement
+531,Research & Development,Manager,9.54,Low,Low,2,Workload Management; Work Environment
+532,Sales,Sales Executive,26.47,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+533,Sales,Sales Executive,20.56,Low,Low,2,Work Environment; Workplace Relationships
+534,Sales,Sales Executive,25.29,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+536,Research & Development,Laboratory Technician,17.67,Low,Low,2,Employee Engagement; Career and Managerial Support
+538,Research & Development,Laboratory Technician,69.15,High,High,2,Employee Engagement; Work Environment
+543,Research & Development,Manufacturing Director,36.61,Moderate,Medium,2,Workload Management; Employee Engagement
+544,Research & Development,Research Scientist,12.23,Low,Low,2,Work-Life Balance; Work Environment
+546,Research & Development,Manager,14.44,Low,Low,1,Work-Life Balance
+547,Research & Development,Research Scientist,31.02,Moderate,Medium,2,Work Environment; Workplace Relationships
+548,Research & Development,Manufacturing Director,20.56,Low,Low,1,Employee Engagement
+549,Research & Development,Manager,34.03,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+550,Research & Development,Manufacturing Director,11.27,Low,Low,2,Work-Life Balance; Career and Managerial Support
+551,Research & Development,Healthcare Representative,13.42,Low,Low,1,Employee Engagement
+554,Sales,Sales Representative,81.17,High,High,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+555,Sales,Sales Representative,73.95,High,High,2,Work-Life Balance; Employee Engagement
+556,Research & Development,Laboratory Technician,60.34,High,High,1,Workload Management
+558,Sales,Manager,9.67,Low,Low,1,Career and Managerial Support
+560,Research & Development,Research Scientist,23.81,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+562,Research & Development,Laboratory Technician,33.74,Moderate,Medium,1,Work-Life Balance
+564,Research & Development,Research Director,14.44,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+565,Research & Development,Research Scientist,74.96,High,High,3,Employee Engagement; Workplace Relationships; Employee Engagement
+566,Human Resources,Human Resources,90.63,High,High,2,Work Environment; Employee Engagement
+567,Sales,Sales Executive,27.86,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+568,Sales,Manager,26.92,Low,Low,3,Work-Life Balance; Work Environment; Employee Engagement
+569,Research & Development,Manager,9.21,Low,Low,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+571,Research & Development,Laboratory Technician,27.1,Low,Low,3,Work-Life Balance; Career Development; Career and Managerial Support
+573,Sales,Sales Executive,30.27,Moderate,Medium,4,Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+574,Research & Development,Manufacturing Director,20.33,Low,Low,1,Work Environment
+575,Research & Development,Research Director,26.04,Low,Low,2,Work-Life Balance; Work Environment
+577,Research & Development,Laboratory Technician,26.97,Low,Low,1,Employee Engagement
+578,Research & Development,Laboratory Technician,33.4,Moderate,Medium,0,
+579,Research & Development,Research Scientist,14.84,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+580,Sales,Sales Executive,22.22,Low,Low,2,Workload Management; Employee Engagement
+581,Research & Development,Manufacturing Director,12.6,Low,Low,2,Employee Engagement; Career and Managerial Support
+582,Research & Development,Manager,75.33,High,High,4,Workload Management; Work Environment; Career Development; Career and Managerial Support
+584,Research & Development,Laboratory Technician,71.99,High,High,3,Work Environment; Workplace Relationships; Employee Engagement
+585,Sales,Sales Representative,32.06,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+586,Research & Development,Healthcare Representative,42.0,Moderate,Medium,1,Workload Management
+587,Research & Development,Healthcare Representative,78.88,High,High,2,Work Environment; Workplace Relationships
+590,Human Resources,Human Resources,64.92,High,High,3,Workload Management; Employee Engagement; Work Environment
+591,Research & Development,Laboratory Technician,24.76,Low,Low,1,Work Environment
+592,Sales,Sales Executive,36.31,Moderate,Medium,4,Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+593,Research & Development,Laboratory Technician,76.59,High,High,1,Employee Engagement
+595,Sales,Sales Executive,19.21,Low,Low,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+597,Sales,Manager,16.21,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+599,Sales,Sales Executive,31.41,Moderate,Medium,1,Career and Managerial Support
+600,Sales,Sales Executive,36.9,Moderate,Medium,3,Work Environment; Career Development; Career and Managerial Support
+601,Research & Development,Manufacturing Director,21.15,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+602,Research & Development,Laboratory Technician,27.34,Low,Low,2,Workplace Relationships; Career and Managerial Support
+604,Sales,Sales Executive,40.54,Moderate,Medium,2,Workload Management; Work Environment
+605,Research & Development,Manufacturing Director,37.61,Moderate,Medium,5,Workload Management; Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+606,Sales,Sales Executive,12.59,Low,Low,3,Employee Engagement; Workplace Relationships; Career and Managerial Support
+608,Human Resources,Human Resources,85.05,High,High,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+611,Research & Development,Manufacturing Director,20.34,Low,Low,1,Workplace Relationships
+612,Research & Development,Research Director,15.5,Low,Low,1,Work Environment
+613,Sales,Manager,35.17,Moderate,Medium,2,Work-Life Balance; Employee Engagement
+614,Sales,Sales Representative,92.8,High,High,3,Workload Management; Employee Engagement; Work Environment
+615,Sales,Sales Executive,26.91,Low,Low,2,Employee Engagement; Employee Engagement
+616,Research & Development,Healthcare Representative,39.58,Moderate,Medium,5,Workload Management; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+618,Sales,Sales Executive,54.5,Moderate,Medium,2,Work Environment; Workplace Relationships
+620,Sales,Sales Executive,22.2,Low,Low,1,Work Environment
+621,Sales,Sales Executive,31.03,Moderate,Medium,2,Career Development; Career and Managerial Support
+622,Research & Development,Laboratory Technician,91.72,High,High,4,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement
+623,Research & Development,Manufacturing Director,11.07,Low,Low,1,Work Environment
+624,Research & Development,Healthcare Representative,34.33,Moderate,Medium,2,Work-Life Balance; Work Environment
+625,Sales,Manager,16.64,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+626,Sales,Sales Executive,25.88,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+630,Research & Development,Research Scientist,10.08,Low,Low,5,Workload Management; Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+631,Sales,Sales Executive,67.42,High,High,0,
+632,Sales,Sales Representative,47.94,Moderate,Medium,0,
+634,Research & Development,Healthcare Representative,23.46,Low,Low,0,
+635,Research & Development,Manufacturing Director,17.81,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+638,Research & Development,Research Director,11.27,Low,Low,3,Workload Management; Employee Engagement; Career and Managerial Support
+639,Research & Development,Research Scientist,50.88,Moderate,Medium,3,Workload Management; Work Environment; Workplace Relationships
+641,Sales,Sales Executive,24.92,Low,Low,2,Employee Engagement; Work Environment
+643,Research & Development,Laboratory Technician,67.72,High,High,2,Employee Engagement; Employee Engagement
+644,Human Resources,Manager,24.35,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+645,Sales,Sales Representative,34.81,Moderate,Medium,1,Work Environment
+647,Research & Development,Laboratory Technician,70.98,High,High,2,Workload Management; Work Environment
+648,Sales,Sales Representative,91.52,High,High,3,Employee Engagement; Work Environment; Employee Engagement
+649,Research & Development,Research Scientist,34.82,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+650,Sales,Sales Executive,70.28,High,High,3,Employee Engagement; Work-Life Balance; Work Environment
+652,Research & Development,Laboratory Technician,29.61,Low,Low,2,Work Environment; Employee Engagement
+653,Sales,Sales Executive,19.26,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+655,Research & Development,Research Scientist,19.52,Low,Low,3,Work-Life Balance; Work Environment; Employee Engagement
+656,Sales,Sales Executive,43.0,Moderate,Medium,2,Workload Management; Work-Life Balance
+657,Research & Development,Research Scientist,54.98,Moderate,Medium,2,Employee Engagement; Employee Engagement
+659,Research & Development,Healthcare Representative,10.76,Low,Low,1,Workplace Relationships
+661,Research & Development,Research Director,21.89,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+662,Research & Development,Research Scientist,33.81,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+663,Research & Development,Laboratory Technician,22.48,Low,Low,3,Workload Management; Workplace Relationships; Career and Managerial Support
+664,Research & Development,Manager,16.85,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+665,Human Resources,Human Resources,27.05,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+666,Sales,Sales Representative,54.35,Moderate,Medium,1,Workload Management
+667,Sales,Sales Representative,55.11,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+669,Sales,Sales Representative,46.2,Moderate,Medium,0,
+671,Research & Development,Manager,13.06,Low,Low,2,Workload Management; Workplace Relationships
+675,Research & Development,Research Scientist,28.45,Low,Low,1,Work Environment
+677,Sales,Sales Executive,22.15,Low,Low,0,
+679,Research & Development,Research Scientist,30.56,Moderate,Medium,3,Workload Management; Work-Life Balance; Work Environment
+680,Research & Development,Research Scientist,64.01,High,High,0,
+682,Sales,Sales Executive,35.61,Moderate,Medium,3,Employee Engagement; Career Development; Career and Managerial Support
+683,Research & Development,Research Scientist,15.11,Low,Low,4,Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+684,Sales,Sales Executive,70.06,High,High,2,Employee Engagement; Work Environment
+686,Research & Development,Laboratory Technician,59.67,Moderate,Medium,1,Workload Management
+689,Research & Development,Manufacturing Director,17.28,Low,Low,2,Career Development; Career and Managerial Support
+690,Sales,Sales Executive,17.79,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+691,Research & Development,Research Scientist,17.91,Low,Low,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+692,Research & Development,Healthcare Representative,19.5,Low,Low,2,Work-Life Balance; Career and Managerial Support
+698,Human Resources,Human Resources,23.12,Low,Low,2,Employee Engagement; Career Development
+699,Research & Development,Manufacturing Director,22.36,Low,Low,4,Workload Management; Employee Engagement; Work Environment; Employee Engagement
+700,Research & Development,Research Scientist,23.79,Low,Low,2,Work Environment; Employee Engagement
+701,Research & Development,Research Scientist,84.27,High,High,1,Workload Management
+702,Research & Development,Research Scientist,71.27,High,High,6,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+704,Research & Development,Laboratory Technician,52.21,Moderate,Medium,1,Employee Engagement
+705,Research & Development,Research Scientist,18.05,Low,Low,3,Employee Engagement; Work Environment; Workplace Relationships
+707,Sales,Sales Executive,10.62,Low,Low,1,Employee Engagement
+709,Sales,Sales Executive,15.8,Low,Low,2,Workplace Relationships; Employee Engagement
+710,Research & Development,Research Scientist,18.7,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+712,Sales,Sales Executive,23.59,Low,Low,2,Employee Engagement; Work Environment
+714,Sales,Sales Executive,13.54,Low,Low,2,Workload Management; Workplace Relationships
+715,Research & Development,Research Scientist,25.57,Low,Low,1,Workplace Relationships
+716,Research & Development,Laboratory Technician,19.95,Low,Low,2,Workload Management; Career and Managerial Support
+717,Research & Development,Healthcare Representative,20.38,Low,Low,5,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+720,Sales,Sales Executive,55.36,Moderate,Medium,2,Work Environment; Workplace Relationships
+721,Research & Development,Healthcare Representative,15.57,Low,Low,4,Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+722,Sales,Sales Executive,28.24,Low,Low,2,Work-Life Balance; Career and Managerial Support
+723,Sales,Sales Executive,63.75,High,High,3,Workload Management; Work Environment; Workplace Relationships
+724,Research & Development,Healthcare Representative,10.01,Low,Low,3,Work-Life Balance; Work Environment; Career and Managerial Support
+725,Research & Development,Manufacturing Director,25.16,Low,Low,2,Employee Engagement; Career and Managerial Support
+727,Research & Development,Research Director,13.65,Low,Low,2,Career Development; Career and Managerial Support
+728,Sales,Sales Executive,28.66,Low,Low,2,Employee Engagement; Career and Managerial Support
+729,Sales,Sales Executive,30.52,Moderate,Medium,4,Workload Management; Employee Engagement; Employee Engagement; Career and Managerial Support
+730,Research & Development,Research Director,5.41,Low,Low,0,
+731,Human Resources,Manager,13.14,Low,Low,5,Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Employee Engagement
+732,Sales,Sales Executive,49.19,Moderate,Medium,2,Employee Engagement; Work Environment
+733,Research & Development,Manufacturing Director,26.13,Low,Low,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+734,Human Resources,Manager,8.99,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+738,Sales,Sales Representative,29.82,Low,Low,1,Employee Engagement
+741,Research & Development,Research Scientist,85.89,High,High,5,Workload Management; Employee Engagement; Work Environment; Employee Engagement; Career and Managerial Support
+742,Research & Development,Research Director,30.14,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+743,Research & Development,Manufacturing Director,45.72,Moderate,Medium,1,Workload Management
+744,Research & Development,Laboratory Technician,34.5,Moderate,Medium,2,Work Environment; Employee Engagement
+746,Sales,Sales Executive,28.87,Low,Low,4,Workload Management; Work-Life Balance; Career Development; Career and Managerial Support
+747,Sales,Sales Executive,34.05,Moderate,Medium,3,Work-Life Balance; Career Development; Career and Managerial Support
+749,Sales,Sales Representative,70.26,High,High,0,
+752,Research & Development,Research Scientist,55.96,Moderate,Medium,1,Workload Management
+754,Sales,Sales Executive,20.45,Low,Low,1,Employee Engagement
+757,Research & Development,Healthcare Representative,18.99,Low,Low,1,Work Environment
+758,Research & Development,Laboratory Technician,33.14,Moderate,Medium,2,Employee Engagement; Work Environment
+760,Human Resources,Human Resources,35.4,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+762,Research & Development,Healthcare Representative,27.41,Low,Low,1,Work-Life Balance
+763,Research & Development,Research Scientist,41.2,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+764,Research & Development,Healthcare Representative,42.04,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+766,Sales,Sales Representative,39.09,Moderate,Medium,1,Employee Engagement
+769,Research & Development,Laboratory Technician,12.78,Low,Low,0,
+771,Research & Development,Healthcare Representative,24.68,Low,Low,2,Employee Engagement; Workplace Relationships
+772,Research & Development,Laboratory Technician,25.17,Low,Low,2,Work Environment; Career and Managerial Support
+773,Research & Development,Research Scientist,49.8,Moderate,Medium,3,Workload Management; Work-Life Balance; Workplace Relationships
+775,Research & Development,Manufacturing Director,30.74,Moderate,Medium,2,Employee Engagement; Work Environment
+776,Sales,Manager,25.45,Low,Low,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+780,Research & Development,Research Scientist,54.35,Moderate,Medium,4,Workload Management; Work-Life Balance; Career Development; Career and Managerial Support
+781,Sales,Sales Executive,23.34,Low,Low,2,Work-Life Balance; Workplace Relationships
+783,Sales,Sales Representative,23.41,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+784,Research & Development,Research Scientist,46.72,Moderate,Medium,1,Work Environment
+785,Sales,Sales Executive,43.11,Moderate,Medium,2,Workload Management; Work Environment
+786,Sales,Sales Executive,11.17,Low,Low,0,
+787,Research & Development,Manager,57.64,Moderate,Medium,2,Workload Management; Employee Engagement
+789,Sales,Sales Executive,30.61,Moderate,Medium,5,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+791,Research & Development,Research Scientist,12.56,Low,Low,1,Workplace Relationships
+792,Research & Development,Laboratory Technician,40.85,Moderate,Medium,3,Work Environment; Workplace Relationships; Employee Engagement
+793,Research & Development,Healthcare Representative,32.71,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+796,Sales,Sales Executive,76.32,High,High,3,Employee Engagement; Work-Life Balance; Employee Engagement
+797,Research & Development,Research Scientist,16.51,Low,Low,1,Work Environment
+799,Research & Development,Manufacturing Director,32.38,Moderate,Medium,3,Workload Management; Employee Engagement; Workplace Relationships
+800,Sales,Sales Executive,24.65,Low,Low,1,Workplace Relationships
+802,Research & Development,Research Scientist,46.68,Moderate,Medium,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+803,Research & Development,Manufacturing Director,37.41,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Career and Managerial Support
+804,Research & Development,Research Scientist,29.05,Low,Low,2,Employee Engagement; Employee Engagement
+805,Sales,Sales Representative,23.84,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+806,Research & Development,Laboratory Technician,23.94,Low,Low,1,Employee Engagement
+807,Research & Development,Healthcare Representative,10.08,Low,Low,2,Employee Engagement; Career and Managerial Support
+808,Sales,Sales Executive,24.07,Low,Low,2,Employee Engagement; Workplace Relationships
+809,Research & Development,Manager,16.95,Low,Low,5,Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+811,Research & Development,Laboratory Technician,75.0,High,High,2,Workload Management; Employee Engagement
+812,Research & Development,Laboratory Technician,58.62,Moderate,Medium,2,Employee Engagement; Employee Engagement
+813,Research & Development,Laboratory Technician,17.08,Low,Low,1,Workplace Relationships
+815,Research & Development,Research Director,9.32,Low,Low,0,
+816,Research & Development,Laboratory Technician,74.52,High,High,4,Workload Management; Employee Engagement; Work Environment; Employee Engagement
+817,Research & Development,Research Director,23.69,Low,Low,1,Career and Managerial Support
+819,Sales,Sales Executive,77.55,High,High,2,Employee Engagement; Work Environment
+820,Research & Development,Manager,16.29,Low,Low,2,Workload Management; Work-Life Balance
+823,Research & Development,Manufacturing Director,10.89,Low,Low,2,Employee Engagement; Workplace Relationships
+824,Research & Development,Research Scientist,18.72,Low,Low,1,Career and Managerial Support
+825,Research & Development,Research Director,62.59,High,High,4,Workload Management; Employee Engagement; Career Development; Career and Managerial Support
+826,Research & Development,Research Scientist,25.06,Low,Low,0,
+827,Research & Development,Manufacturing Director,14.97,Low,Low,2,Workload Management; Employee Engagement
+828,Research & Development,Research Scientist,66.49,High,High,1,Work-Life Balance
+829,Human Resources,Human Resources,22.41,Low,Low,2,Employee Engagement; Workplace Relationships
+830,Research & Development,Manufacturing Director,13.28,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+832,Research & Development,Laboratory Technician,44.01,Moderate,Medium,2,Work Environment; Employee Engagement
+833,Research & Development,Manufacturing Director,50.12,Moderate,Medium,4,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement
+834,Research & Development,Research Scientist,49.1,Moderate,Medium,2,Work Environment; Employee Engagement
+836,Research & Development,Manufacturing Director,22.53,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+837,Research & Development,Healthcare Representative,23.15,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Employee Engagement
+838,Research & Development,Research Scientist,29.39,Low,Low,1,Employee Engagement
+840,Sales,Sales Executive,57.99,Moderate,Medium,3,Workplace Relationships; Career Development; Career and Managerial Support
+842,Sales,Sales Executive,61.56,High,High,2,Work-Life Balance; Career Development
+843,Research & Development,Research Director,17.6,Low,Low,2,Employee Engagement; Work Environment
+844,Research & Development,Research Director,22.32,Low,Low,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+845,Research & Development,Manufacturing Director,11.96,Low,Low,1,Workplace Relationships
+846,Sales,Sales Executive,48.28,Moderate,Medium,5,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Career Development
+847,Human Resources,Human Resources,29.09,Low,Low,1,Work-Life Balance
+848,Research & Development,Research Scientist,78.88,High,High,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+850,Research & Development,Research Scientist,62.17,High,High,1,Work-Life Balance
+851,Sales,Manager,17.2,Low,Low,3,Work-Life Balance; Work Environment; Career and Managerial Support
+852,Research & Development,Healthcare Representative,26.15,Low,Low,2,Employee Engagement; Work-Life Balance
+854,Research & Development,Research Scientist,41.01,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Work Environment
+855,Sales,Sales Executive,25.23,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+856,Research & Development,Research Scientist,31.17,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Employee Engagement
+857,Sales,Sales Executive,19.07,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Career and Managerial Support
+859,Sales,Sales Executive,30.97,Moderate,Medium,2,Work-Life Balance; Work Environment
+861,Research & Development,Research Scientist,26.5,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+862,Sales,Sales Executive,32.23,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+864,Sales,Sales Executive,24.57,Low,Low,2,Workload Management; Employee Engagement
+865,Research & Development,Research Scientist,17.18,Low,Low,1,Work-Life Balance
+867,Research & Development,Manufacturing Director,13.42,Low,Low,1,Employee Engagement
+868,Sales,Sales Executive,31.33,Moderate,Medium,1,Employee Engagement
+869,Human Resources,Human Resources,22.2,Low,Low,2,Work Environment; Employee Engagement
+872,Research & Development,Manufacturing Director,23.42,Low,Low,3,Work-Life Balance; Workplace Relationships; Employee Engagement
+874,Research & Development,Laboratory Technician,38.78,Moderate,Medium,3,Workload Management; Work-Life Balance; Work Environment
+875,Research & Development,Research Scientist,37.94,Moderate,Medium,2,Workload Management; Work Environment
+878,Human Resources,Human Resources,27.98,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+879,Sales,Sales Executive,31.8,Moderate,Medium,2,Workload Management; Employee Engagement
+880,Research & Development,Manufacturing Director,16.34,Low,Low,5,Workload Management; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+881,Research & Development,Research Scientist,76.86,High,High,6,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+882,Research & Development,Laboratory Technician,24.8,Low,Low,1,Workplace Relationships
+885,Sales,Sales Executive,30.93,Moderate,Medium,3,Employee Engagement; Workplace Relationships; Employee Engagement
+887,Research & Development,Research Scientist,9.62,Low,Low,2,Employee Engagement; Workplace Relationships
+888,Research & Development,Laboratory Technician,23.44,Low,Low,3,Work-Life Balance; Work Environment; Employee Engagement
+889,Sales,Sales Executive,25.07,Low,Low,3,Employee Engagement; Work Environment; Career Development
+893,Sales,Sales Representative,26.9,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+894,Research & Development,Laboratory Technician,12.29,Low,Low,3,Workload Management; Work-Life Balance; Workplace Relationships
+895,Research & Development,Research Scientist,45.11,Moderate,Medium,2,Workload Management; Workplace Relationships
+896,Sales,Sales Representative,63.94,High,High,3,Workload Management; Work Environment; Employee Engagement
+897,Sales,Sales Executive,27.64,Low,Low,1,Work Environment
+899,Research & Development,Manufacturing Director,16.67,Low,Low,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+900,Sales,Sales Representative,34.17,Moderate,Medium,1,Workplace Relationships
+901,Research & Development,Research Director,17.89,Low,Low,1,Career and Managerial Support
+902,Research & Development,Healthcare Representative,17.17,Low,Low,2,Work-Life Balance; Workplace Relationships
+903,Sales,Sales Executive,25.56,Low,Low,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+904,Sales,Sales Executive,48.27,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Career and Managerial Support
+905,Research & Development,Manager,21.49,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+909,Human Resources,Human Resources,20.67,Low,Low,1,Employee Engagement
+910,Human Resources,Human Resources,57.79,Moderate,Medium,2,Workload Management; Employee Engagement
+911,Research & Development,Laboratory Technician,81.09,High,High,3,Workload Management; Work-Life Balance; Work Environment
+912,Research & Development,Laboratory Technician,40.37,Moderate,Medium,2,Work Environment; Employee Engagement
+913,Research & Development,Research Scientist,49.44,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Career Development
+916,Sales,Sales Executive,23.11,Low,Low,2,Work Environment; Workplace Relationships
+918,Research & Development,Laboratory Technician,77.78,High,High,3,Workload Management; Work-Life Balance; Employee Engagement
+920,Research & Development,Manufacturing Director,22.8,Low,Low,2,Employee Engagement; Work Environment
+922,Sales,Sales Representative,81.93,High,High,2,Work-Life Balance; Employee Engagement
+923,Research & Development,Research Scientist,65.19,High,High,2,Work-Life Balance; Workplace Relationships
+924,Research & Development,Healthcare Representative,15.05,Low,Low,4,Workload Management; Work-Life Balance; Workplace Relationships; Career and Managerial Support
+925,Sales,Sales Representative,45.23,Moderate,Medium,4,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement
+926,Research & Development,Manufacturing Director,17.17,Low,Low,3,Workload Management; Work Environment; Workplace Relationships
+927,Research & Development,Laboratory Technician,73.45,High,High,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+930,Research & Development,Research Scientist,43.33,Moderate,Medium,1,Workplace Relationships
+932,Research & Development,Laboratory Technician,81.8,High,High,3,Workload Management; Employee Engagement; Work-Life Balance
+933,Research & Development,Research Scientist,70.27,High,High,1,Work Environment
+934,Research & Development,Laboratory Technician,58.54,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+936,Sales,Sales Executive,36.84,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+939,Research & Development,Research Scientist,63.62,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+940,Research & Development,Healthcare Representative,14.99,Low,Low,3,Workload Management; Employee Engagement; Employee Engagement
+941,Sales,Sales Representative,37.0,Moderate,Medium,4,Work Environment; Workplace Relationships; Career Development; Employee Engagement
+942,Research & Development,Healthcare Representative,23.2,Low,Low,3,Workload Management; Work-Life Balance; Career and Managerial Support
+944,Research & Development,Laboratory Technician,20.86,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Career and Managerial Support
+945,Research & Development,Research Scientist,22.99,Low,Low,2,Work-Life Balance; Workplace Relationships
+947,Sales,Sales Executive,31.57,Moderate,Medium,1,Work-Life Balance
+949,Research & Development,Research Scientist,15.21,Low,Low,1,Work Environment
+950,Research & Development,Research Director,7.46,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+951,Research & Development,Laboratory Technician,37.72,Moderate,Medium,2,Employee Engagement; Employee Engagement
+952,Sales,Sales Representative,90.22,High,High,3,Workload Management; Employee Engagement; Employee Engagement
+954,Sales,Sales Executive,49.85,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+956,Sales,Sales Executive,37.5,Moderate,Medium,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+957,Research & Development,Laboratory Technician,28.6,Low,Low,3,Workload Management; Employee Engagement; Career and Managerial Support
+958,Research & Development,Laboratory Technician,19.05,Low,Low,1,Career and Managerial Support
+959,Sales,Sales Representative,94.69,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+960,Research & Development,Laboratory Technician,87.69,High,High,3,Employee Engagement; Work Environment; Workplace Relationships
+961,Research & Development,Healthcare Representative,35.02,Moderate,Medium,3,Workload Management; Work-Life Balance; Career Development
+964,Research & Development,Research Scientist,39.52,Moderate,Medium,2,Workload Management; Employee Engagement
+966,Research & Development,Manufacturing Director,19.55,Low,Low,2,Employee Engagement; Career Development
+967,Sales,Sales Executive,67.27,High,High,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+969,Research & Development,Healthcare Representative,11.84,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+970,Sales,Sales Executive,72.93,High,High,5,Work-Life Balance; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+972,Research & Development,Laboratory Technician,16.72,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Career and Managerial Support
+974,Sales,Sales Representative,39.61,Moderate,Medium,1,Workplace Relationships
+975,Sales,Sales Executive,33.02,Moderate,Medium,1,Workplace Relationships
+976,Research & Development,Manager,8.46,Low,Low,4,Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+977,Research & Development,Research Scientist,36.2,Moderate,Medium,1,Workplace Relationships
+981,Sales,Manager,13.25,Low,Low,1,Career Development
+982,Sales,Sales Executive,47.79,Moderate,Medium,3,Workplace Relationships; Career Development; Career and Managerial Support
+983,Sales,Sales Executive,32.39,Moderate,Medium,2,Workload Management; Workplace Relationships
+984,Sales,Sales Executive,30.1,Moderate,Medium,2,Workplace Relationships; Career and Managerial Support
+985,Sales,Sales Executive,22.09,Low,Low,2,Work Environment; Career and Managerial Support
+986,Sales,Sales Executive,75.66,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+987,Research & Development,Manufacturing Director,15.45,Low,Low,2,Workload Management; Career and Managerial Support
+990,Sales,Sales Executive,23.57,Low,Low,2,Work Environment; Career and Managerial Support
+991,Research & Development,Research Scientist,67.4,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+992,Sales,Manager,28.4,Low,Low,1,Career Development
+994,Research & Development,Research Scientist,81.05,High,High,3,Workload Management; Employee Engagement; Employee Engagement
+995,Research & Development,Research Scientist,33.81,Moderate,Medium,2,Work Environment; Workplace Relationships
+996,Research & Development,Laboratory Technician,15.82,Low,Low,0,
+997,Research & Development,Research Director,11.03,Low,Low,1,Work-Life Balance
+998,Research & Development,Healthcare Representative,25.8,Low,Low,3,Workload Management; Employee Engagement; Workplace Relationships
+999,Research & Development,Research Director,8.38,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1001,Research & Development,Laboratory Technician,45.47,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1002,Research & Development,Laboratory Technician,35.39,Moderate,Medium,3,Workload Management; Employee Engagement; Career and Managerial Support
+1003,Sales,Sales Executive,35.23,Moderate,Medium,2,Workload Management; Career and Managerial Support
+1004,Research & Development,Research Scientist,89.16,High,High,3,Workload Management; Work Environment; Workplace Relationships
+1005,Research & Development,Manufacturing Director,13.02,Low,Low,1,Workload Management
+1006,Research & Development,Research Scientist,17.9,Low,Low,2,Work-Life Balance; Workplace Relationships
+1007,Research & Development,Manufacturing Director,22.57,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1009,Research & Development,Manufacturing Director,12.52,Low,Low,2,Workplace Relationships; Employee Engagement
+1010,Research & Development,Laboratory Technician,76.14,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Employee Engagement
+1011,Research & Development,Manufacturing Director,18.97,Low,Low,1,Employee Engagement
+1012,Research & Development,Research Scientist,64.9,High,High,1,Work Environment
+1013,Research & Development,Manufacturing Director,19.2,Low,Low,1,Career and Managerial Support
+1014,Research & Development,Healthcare Representative,35.32,Moderate,Medium,3,Workload Management; Work-Life Balance; Career Development
+1015,Research & Development,Research Director,26.02,Low,Low,5,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Career and Managerial Support
+1016,Research & Development,Research Scientist,93.56,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+1017,Research & Development,Laboratory Technician,47.72,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1018,Research & Development,Manufacturing Director,14.16,Low,Low,1,Workplace Relationships
+1019,Research & Development,Laboratory Technician,39.52,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1022,Research & Development,Healthcare Representative,17.59,Low,Low,2,Work Environment; Employee Engagement
+1024,Research & Development,Healthcare Representative,16.36,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1025,Research & Development,Manufacturing Director,23.36,Low,Low,1,Workplace Relationships
+1026,Research & Development,Manufacturing Director,11.71,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+1027,Research & Development,Manufacturing Director,5.04,Low,Low,2,Work Environment; Workplace Relationships
+1028,Research & Development,Laboratory Technician,25.29,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+1029,Sales,Manager,21.3,Low,Low,1,Workplace Relationships
+1030,Research & Development,Laboratory Technician,30.62,Moderate,Medium,2,Work Environment; Workplace Relationships
+1032,Research & Development,Manufacturing Director,18.38,Low,Low,3,Workload Management; Workplace Relationships; Employee Engagement
+1033,Research & Development,Healthcare Representative,51.41,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1034,Research & Development,Healthcare Representative,22.0,Low,Low,4,Workload Management; Employee Engagement; Career Development; Career and Managerial Support
+1035,Research & Development,Research Director,6.19,Low,Low,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1036,Sales,Sales Executive,54.5,Moderate,Medium,2,Workload Management; Work Environment
+1037,Sales,Sales Executive,80.33,High,High,3,Employee Engagement; Work Environment; Employee Engagement
+1038,Sales,Manager,17.09,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1039,Sales,Sales Executive,23.18,Low,Low,3,Workload Management; Career Development; Career and Managerial Support
+1040,Sales,Sales Executive,16.24,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1042,Research & Development,Laboratory Technician,58.53,Moderate,Medium,3,Employee Engagement; Career Development; Career and Managerial Support
+1043,Research & Development,Manufacturing Director,25.51,Low,Low,3,Workload Management; Employee Engagement; Career and Managerial Support
+1044,Sales,Sales Representative,39.3,Moderate,Medium,3,Work-Life Balance; Work Environment; Employee Engagement
+1045,Sales,Manager,11.24,Low,Low,1,Workplace Relationships
+1046,Research & Development,Laboratory Technician,47.8,Moderate,Medium,3,Workplace Relationships; Career Development; Career and Managerial Support
+1047,Sales,Sales Executive,30.12,Moderate,Medium,3,Work-Life Balance; Work Environment; Career and Managerial Support
+1048,Sales,Manager,21.45,Low,Low,3,Workload Management; Work-Life Balance; Work Environment
+1049,Human Resources,Human Resources,41.95,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1050,Sales,Sales Executive,24.53,Low,Low,5,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1052,Research & Development,Laboratory Technician,70.14,High,High,3,Work-Life Balance; Work Environment; Workplace Relationships
+1053,Research & Development,Research Scientist,67.96,High,High,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+1055,Sales,Sales Representative,62.22,High,High,1,Workload Management
+1056,Sales,Sales Representative,77.77,High,High,2,Employee Engagement; Workplace Relationships
+1060,Research & Development,Research Scientist,16.78,Low,Low,1,Workplace Relationships
+1061,Research & Development,Research Director,24.33,Low,Low,5,Workload Management; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1062,Research & Development,Healthcare Representative,23.57,Low,Low,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+1066,Sales,Sales Executive,29.3,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development
+1068,Research & Development,Research Scientist,22.82,Low,Low,2,Work Environment; Employee Engagement
+1069,Research & Development,Research Director,20.93,Low,Low,0,
+1070,Sales,Sales Executive,46.0,Moderate,Medium,3,Workplace Relationships; Career Development; Employee Engagement
+1071,Research & Development,Research Scientist,14.71,Low,Low,2,Work Environment; Workplace Relationships
+1073,Research & Development,Manufacturing Director,26.06,Low,Low,5,Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1074,Research & Development,Manager,17.23,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement
+1076,Sales,Sales Executive,29.56,Low,Low,1,Employee Engagement
+1077,Sales,Sales Representative,87.69,High,High,2,Workload Management; Workplace Relationships
+1079,Research & Development,Laboratory Technician,93.76,High,High,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+1080,Research & Development,Research Scientist,16.55,Low,Low,5,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1081,Research & Development,Research Scientist,38.72,Moderate,Medium,3,Workload Management; Work Environment; Career and Managerial Support
+1082,Research & Development,Healthcare Representative,26.95,Low,Low,6,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1083,Research & Development,Laboratory Technician,29.21,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1084,Research & Development,Manufacturing Director,16.99,Low,Low,2,Employee Engagement; Work-Life Balance
+1085,Research & Development,Research Scientist,17.35,Low,Low,2,Work Environment; Career and Managerial Support
+1088,Research & Development,Healthcare Representative,17.74,Low,Low,4,Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1092,Research & Development,Healthcare Representative,18.0,Low,Low,2,Work Environment; Career Development
+1094,Research & Development,Laboratory Technician,21.92,Low,Low,2,Work Environment; Employee Engagement
+1096,Research & Development,Manufacturing Director,9.42,Low,Low,2,Employee Engagement; Workplace Relationships
+1097,Research & Development,Research Scientist,24.56,Low,Low,1,Career and Managerial Support
+1098,Human Resources,Human Resources,23.35,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+1099,Research & Development,Healthcare Representative,12.95,Low,Low,1,Employee Engagement
+1100,Sales,Sales Executive,44.43,Moderate,Medium,4,Workload Management; Employee Engagement; Workplace Relationships; Career and Managerial Support
+1101,Research & Development,Research Scientist,60.71,High,High,4,Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1102,Research & Development,Laboratory Technician,28.44,Low,Low,2,Work-Life Balance; Work Environment
+1103,Research & Development,Healthcare Representative,19.43,Low,Low,2,Work-Life Balance; Work Environment
+1105,Sales,Sales Executive,37.25,Moderate,Medium,2,Workload Management; Employee Engagement
+1106,Research & Development,Laboratory Technician,30.57,Moderate,Medium,3,Workload Management; Workplace Relationships; Career Development
+1107,Research & Development,Laboratory Technician,65.99,High,High,2,Work-Life Balance; Work Environment
+1108,Research & Development,Research Scientist,89.13,High,High,5,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1109,Research & Development,Manager,8.42,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1111,Research & Development,Laboratory Technician,80.45,High,High,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1113,Sales,Sales Executive,54.66,Moderate,Medium,1,Workload Management
+1114,Sales,Sales Executive,12.98,Low,Low,1,Employee Engagement
+1115,Research & Development,Research Scientist,26.15,Low,Low,1,Employee Engagement
+1116,Research & Development,Manager,8.07,Low,Low,2,Work-Life Balance; Work Environment
+1117,Sales,Sales Executive,15.0,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+1118,Research & Development,Healthcare Representative,22.28,Low,Low,2,Employee Engagement; Work Environment
+1119,Sales,Sales Executive,23.01,Low,Low,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1120,Research & Development,Research Scientist,28.84,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1121,Research & Development,Manufacturing Director,15.52,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Career and Managerial Support
+1124,Sales,Manager,12.27,Low,Low,2,Work Environment; Career and Managerial Support
+1125,Sales,Sales Executive,43.77,Moderate,Medium,1,Employee Engagement
+1126,Research & Development,Manufacturing Director,22.95,Low,Low,1,Employee Engagement
+1127,Research & Development,Healthcare Representative,62.61,High,High,2,Work Environment; Career Development
+1128,Research & Development,Research Director,9.21,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1131,Research & Development,Research Scientist,68.42,High,High,3,Workload Management; Employee Engagement; Employee Engagement
+1132,Research & Development,Laboratory Technician,37.08,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1133,Research & Development,Manufacturing Director,18.65,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1135,Sales,Sales Representative,43.21,Moderate,Medium,1,Workplace Relationships
+1136,Research & Development,Research Scientist,34.27,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1137,Sales,Sales Executive,17.09,Low,Low,0,
+1138,Sales,Sales Executive,30.93,Moderate,Medium,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1140,Research & Development,Manufacturing Director,25.26,Low,Low,1,Work-Life Balance
+1143,Research & Development,Research Scientist,26.76,Low,Low,2,Employee Engagement; Work-Life Balance
+1148,Research & Development,Laboratory Technician,31.97,Moderate,Medium,3,Work Environment; Workplace Relationships; Employee Engagement
+1150,Research & Development,Manufacturing Director,19.88,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+1152,Human Resources,Human Resources,23.55,Low,Low,1,Career Development
+1154,Research & Development,Research Scientist,55.88,Moderate,Medium,2,Workload Management; Employee Engagement
+1156,Research & Development,Laboratory Technician,71.7,High,High,0,
+1157,Sales,Sales Executive,51.14,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+1158,Research & Development,Laboratory Technician,36.3,Moderate,Medium,3,Workload Management; Work Environment; Workplace Relationships
+1160,Research & Development,Laboratory Technician,67.67,High,High,1,Work-Life Balance
+1161,Research & Development,Healthcare Representative,22.62,Low,Low,1,Employee Engagement
+1162,Research & Development,Research Scientist,19.05,Low,Low,1,Employee Engagement
+1163,Sales,Sales Executive,24.82,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+1164,Human Resources,Human Resources,42.4,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+1165,Sales,Sales Executive,69.77,High,High,5,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1166,Research & Development,Research Director,26.93,Low,Low,3,Work-Life Balance; Work Environment; Career and Managerial Support
+1167,Sales,Sales Executive,33.5,Moderate,Medium,6,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+1171,Sales,Sales Executive,42.27,Moderate,Medium,2,Employee Engagement; Work Environment
+1172,Research & Development,Laboratory Technician,22.96,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1173,Research & Development,Laboratory Technician,48.38,Moderate,Medium,1,Employee Engagement
+1175,Research & Development,Laboratory Technician,86.68,High,High,2,Workload Management; Work-Life Balance
+1177,Research & Development,Laboratory Technician,18.04,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1179,Sales,Sales Executive,26.79,Low,Low,2,Workplace Relationships; Employee Engagement
+1180,Research & Development,Research Scientist,31.37,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+1182,Research & Development,Manufacturing Director,11.38,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement
+1184,Research & Development,Healthcare Representative,20.18,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1185,Research & Development,Laboratory Technician,37.91,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+1188,Sales,Sales Executive,74.79,High,High,4,Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1190,Sales,Sales Representative,59.95,Moderate,Medium,1,Employee Engagement
+1191,Research & Development,Manager,13.26,Low,Low,1,Employee Engagement
+1192,Research & Development,Laboratory Technician,26.78,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1193,Research & Development,Research Scientist,67.05,High,High,1,Employee Engagement
+1195,Research & Development,Research Scientist,26.69,Low,Low,3,Workload Management; Work-Life Balance; Work Environment
+1196,Research & Development,Manufacturing Director,9.2,Low,Low,4,Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1198,Research & Development,Laboratory Technician,55.84,Moderate,Medium,4,Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1200,Research & Development,Research Scientist,49.58,Moderate,Medium,1,Workload Management
+1201,Research & Development,Manager,5.22,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1202,Research & Development,Research Scientist,50.19,Moderate,Medium,5,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1203,Research & Development,Research Scientist,59.1,Moderate,Medium,3,Workload Management; Workplace Relationships; Employee Engagement
+1204,Sales,Manager,25.88,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1206,Research & Development,Research Scientist,35.03,Moderate,Medium,1,Employee Engagement
+1207,Human Resources,Human Resources,25.68,Low,Low,1,Work Environment
+1210,Research & Development,Research Scientist,40.13,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1211,Sales,Sales Executive,36.77,Moderate,Medium,1,Employee Engagement
+1212,Sales,Sales Executive,31.53,Moderate,Medium,2,Employee Engagement; Work Environment
+1215,Research & Development,Manager,8.27,Low,Low,1,Employee Engagement
+1216,Research & Development,Laboratory Technician,20.29,Low,Low,2,Employee Engagement; Employee Engagement
+1217,Research & Development,Research Director,11.42,Low,Low,2,Employee Engagement; Workplace Relationships
+1218,Sales,Sales Executive,27.52,Low,Low,3,Workload Management; Employee Engagement; Career and Managerial Support
+1219,Research & Development,Laboratory Technician,79.75,High,High,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+1220,Sales,Sales Executive,28.76,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+1221,Research & Development,Laboratory Technician,25.53,Low,Low,2,Employee Engagement; Career and Managerial Support
+1224,Research & Development,Laboratory Technician,32.87,Moderate,Medium,4,Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+1225,Research & Development,Research Scientist,15.67,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+1226,Sales,Sales Representative,60.27,High,High,0,
+1228,Research & Development,Manufacturing Director,23.3,Low,Low,1,Work-Life Balance
+1231,Human Resources,Human Resources,22.1,Low,Low,2,Employee Engagement; Workplace Relationships
+1233,Sales,Sales Executive,23.08,Low,Low,4,Workload Management; Work Environment; Workplace Relationships; Career and Managerial Support
+1234,Research & Development,Laboratory Technician,54.31,Moderate,Medium,2,Employee Engagement; Employee Engagement
+1235,Research & Development,Research Scientist,39.86,Moderate,Medium,2,Workload Management; Career and Managerial Support
+1237,Research & Development,Manufacturing Director,24.71,Low,Low,5,Workload Management; Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+1238,Research & Development,Research Scientist,14.59,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1239,Sales,Sales Executive,32.34,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1240,Sales,Sales Executive,25.58,Low,Low,1,Workplace Relationships
+1241,Research & Development,Research Scientist,23.68,Low,Low,5,Workload Management; Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1242,Research & Development,Research Director,39.65,Moderate,Medium,3,Workload Management; Employee Engagement; Work Environment
+1243,Sales,Sales Executive,29.44,Low,Low,5,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1244,Research & Development,Research Scientist,56.18,Moderate,Medium,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1245,Research & Development,Manufacturing Director,26.41,Low,Low,2,Work-Life Balance; Workplace Relationships
+1246,Research & Development,Research Scientist,16.48,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+1248,Research & Development,Research Scientist,90.29,High,High,5,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1249,Research & Development,Research Scientist,14.16,Low,Low,2,Work Environment; Workplace Relationships
+1250,Research & Development,Research Director,8.28,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1251,Research & Development,Healthcare Representative,39.68,Moderate,Medium,3,Workload Management; Employee Engagement; Work-Life Balance
+1252,Research & Development,Healthcare Representative,22.53,Low,Low,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1254,Sales,Sales Executive,32.18,Moderate,Medium,1,Employee Engagement
+1255,Research & Development,Research Director,7.59,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1256,Research & Development,Manager,19.93,Low,Low,2,Work Environment; Employee Engagement
+1257,Research & Development,Research Scientist,23.84,Low,Low,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1258,Research & Development,Laboratory Technician,37.92,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1259,Research & Development,Research Scientist,22.19,Low,Low,2,Work Environment; Workplace Relationships
+1260,Research & Development,Healthcare Representative,27.1,Low,Low,2,Workload Management; Workplace Relationships
+1263,Research & Development,Research Director,12.04,Low,Low,1,Employee Engagement
+1264,Research & Development,Research Director,8.18,Low,Low,4,Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1265,Research & Development,Research Scientist,47.81,Moderate,Medium,1,Work-Life Balance
+1267,Sales,Manager,16.96,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+1268,Sales,Sales Executive,24.24,Low,Low,2,Workload Management; Career and Managerial Support
+1269,Research & Development,Research Scientist,68.66,High,High,2,Workload Management; Work Environment
+1270,Research & Development,Research Scientist,51.72,Moderate,Medium,0,
+1273,Sales,Sales Representative,88.47,High,High,2,Workload Management; Employee Engagement
+1275,Research & Development,Research Scientist,48.91,Moderate,Medium,3,Workload Management; Work-Life Balance; Workplace Relationships
+1277,Sales,Manager,62.71,High,High,6,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1278,Research & Development,Healthcare Representative,24.96,Low,Low,4,Workload Management; Employee Engagement; Career Development; Employee Engagement
+1279,Research & Development,Laboratory Technician,85.8,High,High,3,Work-Life Balance; Work Environment; Employee Engagement
+1280,Sales,Manager,14.18,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1281,Sales,Sales Executive,34.71,Moderate,Medium,2,Workload Management; Employee Engagement
+1282,Sales,Manager,22.25,Low,Low,6,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+1283,Research & Development,Manufacturing Director,26.78,Low,Low,2,Work-Life Balance; Career Development
+1285,Research & Development,Laboratory Technician,18.64,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1286,Research & Development,Laboratory Technician,55.98,Moderate,Medium,2,Workload Management; Work-Life Balance
+1288,Research & Development,Manager,9.41,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Career and Managerial Support
+1289,Human Resources,Human Resources,22.23,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1291,Research & Development,Research Scientist,27.39,Low,Low,1,Workload Management
+1292,Research & Development,Research Scientist,43.07,Moderate,Medium,3,Workload Management; Employee Engagement; Work Environment
+1293,Sales,Sales Executive,21.37,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+1294,Research & Development,Manufacturing Director,33.84,Moderate,Medium,4,Workload Management; Employee Engagement; Career Development; Career and Managerial Support
+1295,Research & Development,Healthcare Representative,58.09,Moderate,Medium,1,Work Environment
+1296,Research & Development,Laboratory Technician,59.47,Moderate,Medium,3,Workload Management; Workplace Relationships; Employee Engagement
+1297,Research & Development,Laboratory Technician,29.85,Low,Low,6,Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1298,Research & Development,Manufacturing Director,45.09,Moderate,Medium,2,Workload Management; Career and Managerial Support
+1299,Research & Development,Laboratory Technician,75.71,High,High,5,Workload Management; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1301,Research & Development,Research Scientist,31.51,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+1303,Research & Development,Research Scientist,54.29,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1304,Sales,Sales Executive,18.25,Low,Low,1,Career and Managerial Support
+1306,Research & Development,Manager,22.96,Low,Low,2,Employee Engagement; Work Environment
+1307,Research & Development,Manager,19.87,Low,Low,4,Workload Management; Employee Engagement; Career Development; Employee Engagement
+1308,Research & Development,Research Scientist,27.41,Low,Low,1,Work Environment
+1309,Research & Development,Laboratory Technician,51.1,Moderate,Medium,1,Workplace Relationships
+1310,Research & Development,Research Scientist,57.33,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1311,Research & Development,Laboratory Technician,19.05,Low,Low,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1312,Research & Development,Healthcare Representative,24.57,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1314,Human Resources,Human Resources,29.65,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1315,Research & Development,Laboratory Technician,19.61,Low,Low,3,Workplace Relationships; Career Development; Employee Engagement
+1317,Research & Development,Research Director,23.64,Low,Low,3,Workload Management; Employee Engagement; Workplace Relationships
+1318,Sales,Sales Executive,61.16,High,High,3,Workload Management; Employee Engagement; Employee Engagement
+1319,Sales,Sales Executive,61.84,High,High,6,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1321,Research & Development,Manager,32.28,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Career and Managerial Support
+1322,Research & Development,Manufacturing Director,26.34,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1324,Sales,Sales Executive,35.4,Moderate,Medium,4,Workload Management; Work-Life Balance; Workplace Relationships; Career Development
+1329,Sales,Sales Executive,34.84,Moderate,Medium,5,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1331,Sales,Sales Representative,74.2,High,High,3,Workload Management; Employee Engagement; Workplace Relationships
+1333,Research & Development,Laboratory Technician,21.38,Low,Low,2,Employee Engagement; Work Environment
+1334,Research & Development,Manager,25.72,Low,Low,3,Workload Management; Work-Life Balance; Career and Managerial Support
+1336,Research & Development,Manager,14.51,Low,Low,3,Career Development; Employee Engagement; Career and Managerial Support
+1338,Human Resources,Manager,24.0,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1340,Research & Development,Research Scientist,29.61,Low,Low,1,Workplace Relationships
+1344,Research & Development,Healthcare Representative,25.17,Low,Low,1,Work-Life Balance
+1346,Research & Development,Research Scientist,20.02,Low,Low,2,Career Development; Career and Managerial Support
+1349,Sales,Sales Executive,17.38,Low,Low,2,Employee Engagement; Career and Managerial Support
+1350,Research & Development,Research Scientist,41.48,Moderate,Medium,2,Workload Management; Workplace Relationships
+1352,Human Resources,Manager,17.6,Low,Low,4,Workload Management; Employee Engagement; Workplace Relationships; Career and Managerial Support
+1355,Sales,Sales Executive,16.13,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+1356,Sales,Sales Executive,38.95,Moderate,Medium,2,Employee Engagement; Career Development
+1358,Research & Development,Laboratory Technician,30.78,Moderate,Medium,1,Work-Life Balance
+1360,Research & Development,Manufacturing Director,67.28,High,High,6,Workload Management; Employee Engagement; Work-Life Balance; Career Development; Employee Engagement; Career and Managerial Support
+1361,Research & Development,Laboratory Technician,23.25,Low,Low,2,Employee Engagement; Work Environment
+1362,Sales,Sales Executive,15.3,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1363,Research & Development,Manufacturing Director,13.37,Low,Low,1,Career and Managerial Support
+1364,Sales,Sales Representative,40.68,Moderate,Medium,1,Workplace Relationships
+1367,Research & Development,Manufacturing Director,12.57,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+1368,Research & Development,Laboratory Technician,64.58,High,High,0,
+1369,Research & Development,Laboratory Technician,17.68,Low,Low,2,Workplace Relationships; Employee Engagement
+1371,Sales,Sales Executive,34.76,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+1372,Sales,Sales Executive,76.33,High,High,4,Workload Management; Work-Life Balance; Work Environment; Career and Managerial Support
+1373,Research & Development,Manufacturing Director,18.97,Low,Low,5,Workload Management; Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1374,Research & Development,Research Scientist,30.5,Moderate,Medium,2,Work Environment; Employee Engagement
+1375,Research & Development,Healthcare Representative,16.72,Low,Low,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1377,Research & Development,Laboratory Technician,33.01,Moderate,Medium,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1379,Sales,Sales Representative,82.45,High,High,1,Employee Engagement
+1380,Sales,Sales Executive,32.03,Moderate,Medium,2,Workload Management; Work-Life Balance
+1382,Research & Development,Research Scientist,21.44,Low,Low,0,
+1383,Research & Development,Healthcare Representative,18.59,Low,Low,1,Career and Managerial Support
+1387,Sales,Sales Executive,31.5,Moderate,Medium,2,Employee Engagement; Employee Engagement
+1389,Research & Development,Manufacturing Director,33.68,Moderate,Medium,4,Workload Management; Work-Life Balance; Career Development; Career and Managerial Support
+1390,Sales,Sales Executive,20.06,Low,Low,3,Workload Management; Work Environment; Employee Engagement
+1391,Sales,Sales Executive,28.77,Low,Low,3,Employee Engagement; Work Environment; Workplace Relationships
+1392,Research & Development,Research Scientist,16.78,Low,Low,3,Workload Management; Work-Life Balance; Workplace Relationships
+1394,Research & Development,Research Scientist,35.89,Moderate,Medium,1,Workload Management
+1395,Sales,Sales Executive,30.48,Moderate,Medium,2,Work Environment; Workplace Relationships
+1396,Sales,Sales Executive,24.14,Low,Low,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+1397,Research & Development,Healthcare Representative,9.69,Low,Low,1,Workplace Relationships
+1399,Sales,Sales Executive,36.41,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1401,Research & Development,Manufacturing Director,22.81,Low,Low,3,Workload Management; Work-Life Balance; Workplace Relationships
+1402,Research & Development,Research Scientist,36.48,Moderate,Medium,6,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1403,Sales,Sales Executive,38.34,Moderate,Medium,2,Workload Management; Employee Engagement
+1405,Research & Development,Research Scientist,83.13,High,High,3,Workload Management; Career Development; Career and Managerial Support
+1407,Research & Development,Research Scientist,26.54,Low,Low,2,Work Environment; Employee Engagement
+1408,Human Resources,Manager,7.41,Low,Low,2,Employee Engagement; Career and Managerial Support
+1409,Research & Development,Laboratory Technician,50.72,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1411,Research & Development,Laboratory Technician,31.89,Moderate,Medium,2,Work Environment; Workplace Relationships
+1412,Research & Development,Manufacturing Director,36.08,Moderate,Medium,0,
+1415,Research & Development,Laboratory Technician,33.8,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1417,Research & Development,Laboratory Technician,32.19,Moderate,Medium,2,Employee Engagement; Career and Managerial Support
+1419,Human Resources,Human Resources,36.22,Moderate,Medium,6,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1420,Research & Development,Laboratory Technician,31.2,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1421,Research & Development,Healthcare Representative,72.3,High,High,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+1422,Research & Development,Research Director,11.13,Low,Low,3,Work-Life Balance; Career Development; Career and Managerial Support
+1423,Research & Development,Research Director,18.96,Low,Low,2,Workload Management; Employee Engagement
+1424,Research & Development,Research Director,11.66,Low,Low,1,Work Environment
+1425,Sales,Sales Executive,41.65,Moderate,Medium,3,Workload Management; Employee Engagement; Work Environment
+1427,Sales,Sales Representative,91.69,High,High,3,Work Environment; Workplace Relationships; Employee Engagement
+1428,Sales,Sales Executive,25.14,Low,Low,2,Employee Engagement; Workplace Relationships
+1430,Research & Development,Research Director,34.91,Moderate,Medium,2,Employee Engagement; Work Environment
+1431,Research & Development,Research Scientist,28.45,Low,Low,1,Employee Engagement
+1433,Research & Development,Research Scientist,90.35,High,High,3,Employee Engagement; Work Environment; Employee Engagement
+1434,Research & Development,Laboratory Technician,30.36,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1435,Research & Development,Laboratory Technician,21.16,Low,Low,4,Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+1436,Sales,Sales Executive,38.58,Moderate,Medium,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+1438,Research & Development,Research Scientist,20.31,Low,Low,2,Work-Life Balance; Work Environment
+1439,Sales,Sales Representative,47.1,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1440,Research & Development,Laboratory Technician,35.98,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+1441,Research & Development,Research Scientist,19.09,Low,Low,2,Employee Engagement; Work Environment
+1443,Research & Development,Research Director,7.69,Low,Low,3,Work Environment; Workplace Relationships; Career Development
+1445,Sales,Sales Executive,17.16,Low,Low,1,Workload Management
+1446,Sales,Sales Executive,25.23,Low,Low,1,Work-Life Balance
+1447,Research & Development,Laboratory Technician,27.33,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+1448,Research & Development,Research Scientist,53.18,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+1449,Research & Development,Laboratory Technician,18.98,Low,Low,1,Career and Managerial Support
+1453,Sales,Sales Executive,27.66,Low,Low,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1457,Sales,Sales Executive,64.17,High,High,2,Work Environment; Workplace Relationships
+1458,Research & Development,Laboratory Technician,83.54,High,High,5,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1459,Research & Development,Manufacturing Director,61.45,High,High,3,Employee Engagement; Workplace Relationships; Career and Managerial Support
+1460,Research & Development,Healthcare Representative,20.5,Low,Low,6,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1461,Human Resources,Human Resources,39.63,Moderate,Medium,1,Employee Engagement
+1464,Research & Development,Laboratory Technician,77.69,High,High,3,Workload Management; Work-Life Balance; Work Environment
+1465,Research & Development,Manufacturing Director,22.09,Low,Low,2,Workload Management; Work Environment
+1466,Sales,Sales Executive,18.65,Low,Low,2,Employee Engagement; Workplace Relationships
+1467,Human Resources,Human Resources,69.2,High,High,1,Work Environment
+1468,Research & Development,Research Director,18.46,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1469,Sales,Sales Executive,24.04,Low,Low,1,Employee Engagement
+1471,Research & Development,Laboratory Technician,16.47,Low,Low,1,Employee Engagement
+1472,Research & Development,Research Director,15.01,Low,Low,5,Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+1473,Research & Development,Healthcare Representative,9.88,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+1474,Research & Development,Research Scientist,14.7,Low,Low,0,
+1475,Research & Development,Research Scientist,24.61,Low,Low,2,Employee Engagement; Work-Life Balance
+1477,Sales,Sales Executive,19.44,Low,Low,2,Employee Engagement; Workplace Relationships
+1478,Sales,Sales Executive,38.66,Moderate,Medium,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1479,Sales,Sales Executive,28.98,Low,Low,1,Work-Life Balance
+1480,Research & Development,Laboratory Technician,21.77,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+1481,Sales,Sales Executive,42.05,Moderate,Medium,2,Work-Life Balance; Work Environment
+1482,Research & Development,Research Scientist,48.63,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+1483,Research & Development,Research Scientist,14.92,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+1484,Research & Development,Healthcare Representative,12.35,Low,Low,3,Employee Engagement; Workplace Relationships; Career and Managerial Support
+1485,Research & Development,Research Director,23.13,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1486,Sales,Sales Representative,32.42,Moderate,Medium,1,Work Environment
+1487,Sales,Sales Executive,84.62,High,High,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1489,Sales,Sales Executive,71.59,High,High,6,Workload Management; Employee Engagement; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1492,Sales,Sales Representative,47.83,Moderate,Medium,1,Workplace Relationships
+1494,Research & Development,Laboratory Technician,89.78,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+1495,Sales,Sales Representative,74.18,High,High,1,Employee Engagement
+1496,Research & Development,Manufacturing Director,39.07,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+1497,Sales,Sales Executive,18.82,Low,Low,1,Employee Engagement
+1499,Human Resources,Human Resources,33.72,Moderate,Medium,1,Workplace Relationships
+1501,Research & Development,Healthcare Representative,21.17,Low,Low,2,Workload Management; Workplace Relationships
+1502,Research & Development,Laboratory Technician,40.54,Moderate,Medium,3,Employee Engagement; Work Environment; Employee Engagement
+1503,Sales,Sales Executive,27.98,Low,Low,2,Workload Management; Work-Life Balance
+1504,Research & Development,Laboratory Technician,84.93,High,High,3,Employee Engagement; Work-Life Balance; Employee Engagement
+1506,Research & Development,Research Scientist,51.44,Moderate,Medium,3,Work-Life Balance; Work Environment; Employee Engagement
+1507,Sales,Sales Executive,30.07,Moderate,Medium,1,Employee Engagement
+1509,Research & Development,Laboratory Technician,18.64,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1513,Research & Development,Laboratory Technician,26.86,Low,Low,1,Employee Engagement
+1514,Research & Development,Manufacturing Director,20.27,Low,Low,5,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1515,Research & Development,Healthcare Representative,50.11,Moderate,Medium,2,Workload Management; Workplace Relationships
+1516,Research & Development,Manager,17.92,Low,Low,1,Workplace Relationships
+1520,Research & Development,Manager,6.99,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1522,Research & Development,Research Scientist,58.46,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+1523,Research & Development,Research Director,13.58,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1525,Research & Development,Manufacturing Director,20.33,Low,Low,2,Employee Engagement; Work Environment
+1527,Sales,Manager,19.76,Low,Low,2,Employee Engagement; Career Development
+1529,Research & Development,Healthcare Representative,24.2,Low,Low,3,Employee Engagement; Work-Life Balance; Employee Engagement
+1533,Research & Development,Laboratory Technician,30.92,Moderate,Medium,2,Work Environment; Workplace Relationships
+1534,Research & Development,Laboratory Technician,71.87,High,High,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+1535,Sales,Sales Executive,40.47,Moderate,Medium,3,Workload Management; Career Development; Employee Engagement
+1537,Research & Development,Research Scientist,68.19,High,High,4,Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+1539,Research & Development,Research Director,30.01,Moderate,Medium,4,Workload Management; Career Development; Employee Engagement; Career and Managerial Support
+1541,Sales,Sales Representative,29.92,Low,Low,5,Workload Management; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1542,Research & Development,Laboratory Technician,19.73,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1543,Research & Development,Research Scientist,20.42,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1544,Research & Development,Healthcare Representative,23.16,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1545,Research & Development,Manufacturing Director,27.22,Low,Low,2,Employee Engagement; Employee Engagement
+1546,Research & Development,Research Scientist,12.13,Low,Low,0,
+1547,Research & Development,Healthcare Representative,26.34,Low,Low,4,Workload Management; Work-Life Balance; Career Development; Career and Managerial Support
+1548,Sales,Sales Executive,25.1,Low,Low,3,Employee Engagement; Work Environment; Career Development
+1549,Research & Development,Laboratory Technician,30.52,Moderate,Medium,5,Workload Management; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1550,Human Resources,Manager,19.6,Low,Low,3,Workload Management; Career Development; Career and Managerial Support
+1551,Research & Development,Laboratory Technician,64.11,High,High,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1552,Research & Development,Healthcare Representative,25.13,Low,Low,1,Workload Management
+1553,Research & Development,Healthcare Representative,23.62,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1554,Sales,Sales Representative,32.87,Moderate,Medium,3,Work Environment; Workplace Relationships; Employee Engagement
+1555,Research & Development,Research Scientist,14.52,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1556,Sales,Sales Representative,45.84,Moderate,Medium,2,Workload Management; Work-Life Balance
+1557,Sales,Sales Executive,31.29,Moderate,Medium,2,Career Development; Career and Managerial Support
+1558,Research & Development,Research Scientist,40.54,Moderate,Medium,2,Work-Life Balance; Workplace Relationships
+1560,Sales,Sales Executive,32.27,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Work Environment
+1562,Sales,Sales Executive,57.16,Moderate,Medium,5,Employee Engagement; Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1563,Human Resources,Human Resources,33.39,Moderate,Medium,0,
+1564,Research & Development,Laboratory Technician,24.35,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1568,Sales,Sales Executive,23.94,Low,Low,2,Employee Engagement; Workplace Relationships
+1569,Research & Development,Laboratory Technician,81.62,High,High,3,Workload Management; Employee Engagement; Work Environment
+1572,Research & Development,Manufacturing Director,9.62,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1573,Research & Development,Manufacturing Director,51.31,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1574,Research & Development,Research Scientist,15.76,Low,Low,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+1576,Research & Development,Research Scientist,24.64,Low,Low,3,Employee Engagement; Work-Life Balance; Career Development
+1577,Research & Development,Research Scientist,66.19,High,High,2,Work-Life Balance; Work Environment
+1578,Sales,Manager,14.84,Low,Low,2,Employee Engagement; Career and Managerial Support
+1580,Research & Development,Research Scientist,22.33,Low,Low,3,Work-Life Balance; Work Environment; Workplace Relationships
+1581,Research & Development,Research Scientist,64.3,High,High,2,Work Environment; Workplace Relationships
+1582,Sales,Sales Executive,24.12,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1583,Sales,Sales Executive,32.05,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1585,Sales,Sales Executive,37.09,Moderate,Medium,2,Work Environment; Workplace Relationships
+1586,Research & Development,Laboratory Technician,43.81,Moderate,Medium,3,Workload Management; Employee Engagement; Work Environment
+1587,Research & Development,Healthcare Representative,38.51,Moderate,Medium,2,Workload Management; Work Environment
+1588,Sales,Sales Executive,30.45,Moderate,Medium,2,Workplace Relationships; Career Development
+1590,Research & Development,Healthcare Representative,14.21,Low,Low,1,Work Environment
+1591,Sales,Manager,35.65,Moderate,Medium,1,Workload Management
+1592,Research & Development,Research Scientist,26.62,Low,Low,0,
+1594,Research & Development,Laboratory Technician,29.91,Low,Low,3,Workload Management; Employee Engagement; Work Environment
+1595,Research & Development,Manager,17.38,Low,Low,1,Employee Engagement
+1596,Research & Development,Laboratory Technician,18.05,Low,Low,4,Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1597,Research & Development,Healthcare Representative,22.43,Low,Low,5,Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1598,Sales,Sales Executive,24.09,Low,Low,1,Employee Engagement
+1599,Research & Development,Laboratory Technician,28.15,Low,Low,1,Employee Engagement
+1601,Research & Development,Laboratory Technician,32.38,Moderate,Medium,2,Work-Life Balance; Employee Engagement
+1602,Sales,Manager,26.97,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Career and Managerial Support
+1604,Research & Development,Laboratory Technician,89.27,High,High,2,Workload Management; Employee Engagement
+1605,Research & Development,Research Scientist,62.7,High,High,5,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1606,Research & Development,Healthcare Representative,13.17,Low,Low,4,Workload Management; Work Environment; Career Development; Career and Managerial Support
+1607,Research & Development,Research Scientist,13.31,Low,Low,1,Work Environment
+1608,Research & Development,Research Director,10.32,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Career and Managerial Support
+1609,Research & Development,Research Scientist,29.07,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1611,Research & Development,Laboratory Technician,34.41,Moderate,Medium,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+1612,Sales,Sales Executive,35.14,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1613,Sales,Sales Executive,46.74,Moderate,Medium,1,Employee Engagement
+1614,Research & Development,Manufacturing Director,37.94,Moderate,Medium,2,Workload Management; Workplace Relationships
+1615,Research & Development,Manufacturing Director,25.33,Low,Low,2,Workplace Relationships; Career Development
+1617,Research & Development,Laboratory Technician,30.18,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1618,Research & Development,Manufacturing Director,19.64,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+1619,Research & Development,Laboratory Technician,30.77,Moderate,Medium,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1621,Research & Development,Research Scientist,28.95,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+1622,Research & Development,Manufacturing Director,26.42,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1623,Research & Development,Research Scientist,37.03,Moderate,Medium,0,
+1624,Sales,Sales Representative,91.66,High,High,2,Workload Management; Work Environment
+1625,Human Resources,Manager,13.33,Low,Low,0,
+1627,Research & Development,Laboratory Technician,16.18,Low,Low,2,Employee Engagement; Career and Managerial Support
+1628,Research & Development,Manufacturing Director,19.99,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1630,Research & Development,Healthcare Representative,11.45,Low,Low,1,Career and Managerial Support
+1631,Research & Development,Manufacturing Director,20.22,Low,Low,2,Work-Life Balance; Workplace Relationships
+1633,Research & Development,Manufacturing Director,35.27,Moderate,Medium,3,Work-Life Balance; Work Environment; Career and Managerial Support
+1635,Research & Development,Manufacturing Director,10.37,Low,Low,3,Workplace Relationships; Employee Engagement; Career and Managerial Support
+1638,Research & Development,Manufacturing Director,21.03,Low,Low,2,Workload Management; Employee Engagement
+1639,Sales,Sales Executive,72.74,High,High,3,Employee Engagement; Career Development; Employee Engagement
+1640,Research & Development,Research Scientist,29.26,Low,Low,6,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1641,Research & Development,Manufacturing Director,38.22,Moderate,Medium,2,Workload Management; Work-Life Balance
+1642,Human Resources,Human Resources,32.52,Moderate,Medium,2,Workload Management; Work Environment
+1644,Research & Development,Manager,10.97,Low,Low,2,Workplace Relationships; Employee Engagement
+1645,Sales,Sales Executive,50.73,Moderate,Medium,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+1646,Research & Development,Research Scientist,61.42,High,High,2,Workload Management; Work Environment
+1647,Research & Development,Research Scientist,38.76,Moderate,Medium,2,Work Environment; Workplace Relationships
+1648,Research & Development,Research Scientist,24.06,Low,Low,1,Work-Life Balance
+1649,Research & Development,Laboratory Technician,86.59,High,High,5,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1650,Sales,Sales Executive,53.6,Moderate,Medium,1,Employee Engagement
+1651,Research & Development,Healthcare Representative,12.23,Low,Low,2,Employee Engagement; Work Environment
+1653,Research & Development,Manufacturing Director,14.61,Low,Low,1,Career and Managerial Support
+1654,Research & Development,Manufacturing Director,30.94,Moderate,Medium,1,Employee Engagement
+1655,Research & Development,Research Director,10.35,Low,Low,3,Employee Engagement; Work Environment; Workplace Relationships
+1656,Research & Development,Research Director,15.7,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1657,Sales,Sales Representative,64.07,High,High,1,Workplace Relationships
+1658,Research & Development,Research Scientist,5.62,Low,Low,3,Employee Engagement; Career Development; Career and Managerial Support
+1659,Research & Development,Laboratory Technician,30.13,Moderate,Medium,2,Employee Engagement; Work Environment
+1661,Research & Development,Healthcare Representative,5.79,Low,Low,4,Workload Management; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1662,Research & Development,Manufacturing Director,11.22,Low,Low,1,Employee Engagement
+1664,Research & Development,Healthcare Representative,20.33,Low,Low,2,Employee Engagement; Workplace Relationships
+1665,Research & Development,Manager,4.99,Low,Low,2,Work Environment; Career and Managerial Support
+1666,Research & Development,Research Director,9.18,Low,Low,4,Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1667,Sales,Sales Executive,47.24,Moderate,Medium,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+1668,Research & Development,Research Scientist,12.22,Low,Low,1,Career and Managerial Support
+1669,Sales,Sales Executive,32.34,Moderate,Medium,7,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1670,Sales,Sales Executive,11.47,Low,Low,0,
+1671,Research & Development,Research Scientist,14.42,Low,Low,2,Employee Engagement; Work-Life Balance
+1673,Sales,Sales Executive,28.12,Low,Low,2,Work Environment; Workplace Relationships
+1674,Research & Development,Laboratory Technician,45.54,Moderate,Medium,4,Workload Management; Employee Engagement; Work-Life Balance; Workplace Relationships
+1675,Research & Development,Laboratory Technician,27.77,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1676,Sales,Manager,16.31,Low,Low,2,Employee Engagement; Work Environment
+1677,Research & Development,Manager,12.41,Low,Low,1,Workplace Relationships
+1678,Sales,Sales Executive,47.74,Moderate,Medium,1,Workload Management
+1680,Sales,Sales Representative,57.71,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1681,Sales,Sales Executive,31.68,Moderate,Medium,1,Workload Management
+1682,Research & Development,Healthcare Representative,32.17,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1683,Human Resources,Human Resources,41.02,Moderate,Medium,2,Workload Management; Workplace Relationships
+1684,Research & Development,Laboratory Technician,77.49,High,High,3,Workload Management; Workplace Relationships; Employee Engagement
+1687,Research & Development,Laboratory Technician,18.84,Low,Low,1,Work-Life Balance
+1689,Research & Development,Healthcare Representative,11.6,Low,Low,1,Work Environment
+1691,Sales,Sales Representative,41.01,Moderate,Medium,3,Workload Management; Career Development; Career and Managerial Support
+1692,Research & Development,Laboratory Technician,81.69,High,High,2,Employee Engagement; Workplace Relationships
+1693,Research & Development,Laboratory Technician,15.7,Low,Low,2,Career Development; Career and Managerial Support
+1694,Research & Development,Research Scientist,24.46,Low,Low,3,Employee Engagement; Work Environment; Employee Engagement
+1696,Research & Development,Laboratory Technician,9.92,Low,Low,3,Work Environment; Employee Engagement; Career and Managerial Support
+1697,Research & Development,Healthcare Representative,18.32,Low,Low,1,Employee Engagement
+1698,Research & Development,Laboratory Technician,25.58,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+1700,Sales,Sales Executive,24.11,Low,Low,2,Work-Life Balance; Employee Engagement
+1701,Research & Development,Research Scientist,30.19,Moderate,Medium,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1702,Sales,Sales Representative,75.75,High,High,2,Workload Management; Workplace Relationships
+1703,Research & Development,Healthcare Representative,16.54,Low,Low,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+1704,Research & Development,Research Scientist,40.0,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+1706,Sales,Sales Executive,30.35,Moderate,Medium,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+1707,Research & Development,Research Scientist,11.02,Low,Low,0,
+1708,Sales,Sales Executive,27.35,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+1709,Research & Development,Laboratory Technician,30.44,Moderate,Medium,0,
+1710,Sales,Sales Representative,23.57,Low,Low,3,Work-Life Balance; Career Development; Career and Managerial Support
+1712,Research & Development,Healthcare Representative,6.92,Low,Low,3,Work-Life Balance; Career Development; Employee Engagement
+1714,Human Resources,Human Resources,79.85,High,High,1,Employee Engagement
+1716,Sales,Sales Executive,72.01,High,High,4,Work-Life Balance; Career Development; Employee Engagement; Career and Managerial Support
+1718,Research & Development,Laboratory Technician,27.38,Low,Low,1,Employee Engagement
+1719,Research & Development,Research Director,9.36,Low,Low,3,Employee Engagement; Career Development; Employee Engagement
+1720,Research & Development,Research Scientist,48.39,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1721,Research & Development,Laboratory Technician,17.81,Low,Low,1,Work Environment
+1722,Human Resources,Human Resources,19.6,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1724,Research & Development,Manufacturing Director,30.87,Moderate,Medium,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+1725,Research & Development,Laboratory Technician,35.42,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1727,Research & Development,Healthcare Representative,12.78,Low,Low,2,Employee Engagement; Career and Managerial Support
+1728,Research & Development,Manufacturing Director,15.15,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1729,Research & Development,Research Scientist,24.14,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+1731,Sales,Sales Executive,35.45,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1732,Sales,Sales Executive,23.17,Low,Low,3,Workload Management; Work-Life Balance; Workplace Relationships
+1733,Sales,Sales Executive,38.17,Moderate,Medium,5,Workload Management; Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1734,Sales,Sales Executive,78.72,High,High,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1735,Research & Development,Laboratory Technician,41.93,Moderate,Medium,2,Employee Engagement; Work-Life Balance
+1736,Research & Development,Manufacturing Director,24.94,Low,Low,1,Work-Life Balance
+1737,Research & Development,Laboratory Technician,20.39,Low,Low,3,Workload Management; Career Development; Career and Managerial Support
+1739,Sales,Sales Executive,40.15,Moderate,Medium,2,Work-Life Balance; Employee Engagement
+1740,Sales,Manager,15.49,Low,Low,6,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1744,Human Resources,Human Resources,17.79,Low,Low,1,Employee Engagement
+1745,Research & Development,Research Scientist,28.59,Low,Low,3,Employee Engagement; Employee Engagement; Career and Managerial Support
+1746,Human Resources,Human Resources,39.16,Moderate,Medium,1,Work Environment
+1747,Human Resources,Human Resources,70.88,High,High,2,Work-Life Balance; Employee Engagement
+1749,Sales,Sales Executive,11.09,Low,Low,1,Work Environment
+1751,Research & Development,Research Scientist,23.63,Low,Low,1,Work-Life Balance
+1752,Sales,Sales Representative,85.29,High,High,3,Employee Engagement; Work Environment; Employee Engagement
+1753,Research & Development,Healthcare Representative,48.8,Moderate,Medium,1,Workload Management
+1754,Sales,Sales Executive,28.62,Low,Low,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1755,Research & Development,Research Scientist,25.47,Low,Low,2,Workload Management; Workplace Relationships
+1756,Sales,Sales Executive,43.65,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1757,Sales,Sales Executive,26.97,Low,Low,0,
+1758,Sales,Sales Executive,66.42,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Work Environment
+1760,Research & Development,Laboratory Technician,24.11,Low,Low,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+1761,Sales,Sales Executive,65.36,High,High,2,Work Environment; Workplace Relationships
+1762,Research & Development,Research Scientist,59.26,Moderate,Medium,2,Employee Engagement; Employee Engagement
+1763,Research & Development,Healthcare Representative,18.25,Low,Low,1,Career and Managerial Support
+1764,Research & Development,Research Scientist,30.47,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+1766,Research & Development,Healthcare Representative,33.32,Moderate,Medium,3,Workload Management; Work Environment; Employee Engagement
+1767,Research & Development,Research Scientist,56.57,Moderate,Medium,2,Workload Management; Employee Engagement
+1768,Research & Development,Laboratory Technician,41.45,Moderate,Medium,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1770,Research & Development,Research Director,19.33,Low,Low,3,Employee Engagement; Workplace Relationships; Employee Engagement
+1771,Research & Development,Research Scientist,19.24,Low,Low,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1772,Research & Development,Laboratory Technician,33.28,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1774,Sales,Sales Executive,15.92,Low,Low,2,Workload Management; Career and Managerial Support
+1775,Research & Development,Manufacturing Director,26.22,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+1778,Human Resources,Human Resources,24.72,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1779,Sales,Sales Executive,38.64,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+1780,Sales,Sales Representative,89.31,High,High,3,Employee Engagement; Work Environment; Workplace Relationships
+1782,Research & Development,Laboratory Technician,13.35,Low,Low,2,Workplace Relationships; Employee Engagement
+1783,Research & Development,Laboratory Technician,90.69,High,High,2,Workload Management; Employee Engagement
+1784,Sales,Sales Executive,37.29,Moderate,Medium,5,Work Environment; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1786,Research & Development,Manager,15.67,Low,Low,1,Work Environment
+1787,Sales,Sales Executive,21.03,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1789,Research & Development,Research Director,21.93,Low,Low,1,Workload Management
+1790,Research & Development,Healthcare Representative,27.74,Low,Low,4,Workload Management; Employee Engagement; Career Development; Career and Managerial Support
+1792,Research & Development,Research Scientist,75.35,High,High,3,Workload Management; Employee Engagement; Work-Life Balance
+1794,Human Resources,Human Resources,22.82,Low,Low,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1797,Sales,Sales Executive,73.67,High,High,3,Workload Management; Career Development; Career and Managerial Support
+1798,Research & Development,Research Scientist,29.35,Low,Low,3,Employee Engagement; Workplace Relationships; Career Development
+1799,Research & Development,Research Scientist,17.7,Low,Low,0,
+1800,Research & Development,Research Director,18.19,Low,Low,0,
+1801,Sales,Sales Executive,41.0,Moderate,Medium,3,Employee Engagement; Work Environment; Employee Engagement
+1802,Research & Development,Laboratory Technician,21.24,Low,Low,2,Employee Engagement; Work-Life Balance
+1803,Research & Development,Healthcare Representative,32.17,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Work Environment
+1804,Research & Development,Manufacturing Director,7.19,Low,Low,2,Work Environment; Career and Managerial Support
+1805,Human Resources,Human Resources,33.58,Moderate,Medium,3,Employee Engagement; Work Environment; Career and Managerial Support
+1807,Research & Development,Laboratory Technician,60.68,High,High,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1809,Research & Development,Manufacturing Director,62.33,High,High,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Career and Managerial Support
+1812,Sales,Sales Executive,19.71,Low,Low,0,
+1813,Research & Development,Research Scientist,28.95,Low,Low,2,Work-Life Balance; Work Environment
+1814,Research & Development,Healthcare Representative,31.56,Moderate,Medium,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1815,Sales,Sales Executive,17.44,Low,Low,2,Workload Management; Career Development
+1816,Research & Development,Manufacturing Director,39.35,Moderate,Medium,2,Work Environment; Workplace Relationships
+1818,Human Resources,Human Resources,59.41,Moderate,Medium,2,Workload Management; Employee Engagement
+1821,Research & Development,Healthcare Representative,16.66,Low,Low,2,Employee Engagement; Career and Managerial Support
+1822,Research & Development,Healthcare Representative,6.59,Low,Low,0,
+1823,Sales,Sales Executive,15.96,Low,Low,2,Work Environment; Career and Managerial Support
+1824,Sales,Manager,14.32,Low,Low,5,Employee Engagement; Work-Life Balance; Work Environment; Career Development; Career and Managerial Support
+1826,Research & Development,Laboratory Technician,35.5,Moderate,Medium,3,Work Environment; Workplace Relationships; Employee Engagement
+1827,Research & Development,Manufacturing Director,19.22,Low,Low,5,Workload Management; Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+1829,Research & Development,Healthcare Representative,20.07,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1830,Research & Development,Research Scientist,15.22,Low,Low,3,Work-Life Balance; Workplace Relationships; Career and Managerial Support
+1833,Sales,Sales Executive,24.04,Low,Low,2,Employee Engagement; Work Environment
+1834,Research & Development,Research Scientist,15.73,Low,Low,1,Employee Engagement
+1835,Sales,Sales Representative,15.3,Low,Low,5,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1836,Sales,Sales Executive,22.33,Low,Low,1,Workplace Relationships
+1837,Research & Development,Research Director,26.31,Low,Low,3,Workload Management; Work Environment; Workplace Relationships
+1839,Research & Development,Research Scientist,73.87,High,High,2,Work-Life Balance; Work Environment
+1842,Human Resources,Human Resources,81.51,High,High,1,Employee Engagement
+1844,Human Resources,Human Resources,86.74,High,High,4,Workload Management; Employee Engagement; Work Environment; Employee Engagement
+1845,Sales,Sales Executive,13.66,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+1847,Research & Development,Research Scientist,25.32,Low,Low,2,Workload Management; Employee Engagement
+1849,Sales,Sales Executive,15.33,Low,Low,3,Work Environment; Career Development; Career and Managerial Support
+1850,Research & Development,Laboratory Technician,49.7,Moderate,Medium,2,Workload Management; Work-Life Balance
+1852,Research & Development,Laboratory Technician,28.16,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1853,Sales,Sales Executive,45.74,Moderate,Medium,0,
+1854,Research & Development,Research Scientist,15.09,Low,Low,2,Work-Life Balance; Workplace Relationships
+1856,Research & Development,Laboratory Technician,32.29,Moderate,Medium,1,Work Environment
+1857,Research & Development,Manufacturing Director,12.87,Low,Low,2,Work-Life Balance; Career and Managerial Support
+1858,Human Resources,Human Resources,26.79,Low,Low,1,Workplace Relationships
+1859,Research & Development,Healthcare Representative,29.21,Low,Low,1,Employee Engagement
+1860,Research & Development,Laboratory Technician,26.18,Low,Low,0,
+1862,Sales,Sales Executive,83.57,High,High,4,Workload Management; Employee Engagement; Work-Life Balance; Employee Engagement
+1863,Sales,Sales Executive,14.48,Low,Low,3,Employee Engagement; Work Environment; Career and Managerial Support
+1864,Sales,Sales Representative,19.92,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1865,Human Resources,Human Resources,64.53,High,High,2,Employee Engagement; Employee Engagement
+1866,Research & Development,Manager,21.83,Low,Low,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1867,Research & Development,Research Director,12.79,Low,Low,4,Employee Engagement; Career Development; Employee Engagement; Career and Managerial Support
+1868,Research & Development,Research Scientist,91.65,High,High,4,Workload Management; Work-Life Balance; Workplace Relationships; Employee Engagement
+1869,Sales,Sales Executive,62.09,High,High,2,Employee Engagement; Career and Managerial Support
+1870,Research & Development,Research Scientist,21.27,Low,Low,4,Employee Engagement; Work-Life Balance; Career Development; Employee Engagement
+1871,Research & Development,Research Scientist,14.54,Low,Low,1,Workplace Relationships
+1873,Research & Development,Research Scientist,18.45,Low,Low,3,Work Environment; Workplace Relationships; Employee Engagement
+1875,Sales,Sales Representative,56.06,Moderate,Medium,2,Employee Engagement; Work Environment
+1876,Sales,Sales Representative,85.95,High,High,2,Work-Life Balance; Work Environment
+1878,Research & Development,Research Scientist,94.79,High,High,3,Workload Management; Employee Engagement; Workplace Relationships
+1880,Sales,Sales Executive,25.22,Low,Low,5,Workload Management; Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+1881,Research & Development,Laboratory Technician,30.36,Moderate,Medium,2,Work Environment; Workplace Relationships
+1882,Sales,Sales Executive,32.53,Moderate,Medium,1,Workload Management
+1883,Research & Development,Laboratory Technician,32.38,Moderate,Medium,2,Employee Engagement; Workplace Relationships
+1885,Research & Development,Research Scientist,31.24,Moderate,Medium,2,Workload Management; Employee Engagement
+1886,Research & Development,Manufacturing Director,42.1,Moderate,Medium,3,Workload Management; Employee Engagement; Employee Engagement
+1888,Research & Development,Manufacturing Director,18.4,Low,Low,4,Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+1890,Human Resources,Human Resources,24.54,Low,Low,4,Work-Life Balance; Work Environment; Employee Engagement; Career and Managerial Support
+1892,Research & Development,Manager,16.57,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1893,Research & Development,Research Scientist,66.52,High,High,4,Workload Management; Work-Life Balance; Work Environment; Employee Engagement
+1898,Sales,Sales Executive,22.32,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+1900,Research & Development,Manager,12.99,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1903,Research & Development,Healthcare Representative,20.57,Low,Low,2,Employee Engagement; Work Environment
+1905,Research & Development,Research Scientist,76.19,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+1907,Research & Development,Laboratory Technician,25.76,Low,Low,1,Work Environment
+1908,Sales,Sales Executive,35.11,Moderate,Medium,3,Employee Engagement; Work-Life Balance; Employee Engagement
+1909,Sales,Sales Executive,28.41,Low,Low,1,Employee Engagement
+1911,Research & Development,Research Director,12.94,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1912,Sales,Sales Executive,21.95,Low,Low,1,Workload Management
+1915,Sales,Sales Executive,33.88,Moderate,Medium,3,Workload Management; Work-Life Balance; Employee Engagement
+1916,Research & Development,Laboratory Technician,44.3,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1918,Research & Development,Laboratory Technician,27.34,Low,Low,3,Workplace Relationships; Career Development; Career and Managerial Support
+1922,Research & Development,Healthcare Representative,18.66,Low,Low,1,Work Environment
+1924,Sales,Sales Executive,28.12,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+1927,Sales,Sales Executive,30.71,Moderate,Medium,3,Workload Management; Employee Engagement; Career and Managerial Support
+1928,Sales,Sales Representative,82.9,High,High,1,Employee Engagement
+1929,Sales,Sales Executive,32.82,Moderate,Medium,2,Work Environment; Employee Engagement
+1931,Research & Development,Research Scientist,25.2,Low,Low,3,Employee Engagement; Work-Life Balance; Work Environment
+1932,Research & Development,Research Scientist,33.92,Moderate,Medium,5,Workload Management; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1933,Sales,Sales Executive,78.34,High,High,1,Workload Management
+1934,Research & Development,Research Scientist,12.47,Low,Low,2,Employee Engagement; Career and Managerial Support
+1935,Sales,Sales Executive,34.04,Moderate,Medium,2,Employee Engagement; Employee Engagement
+1936,Research & Development,Manufacturing Director,18.88,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+1937,Research & Development,Research Scientist,17.36,Low,Low,4,Workload Management; Employee Engagement; Employee Engagement; Career and Managerial Support
+1938,Sales,Manager,24.5,Low,Low,2,Workload Management; Work-Life Balance
+1939,Research & Development,Research Scientist,88.82,High,High,3,Workload Management; Work Environment; Workplace Relationships
+1940,Research & Development,Research Scientist,14.02,Low,Low,1,Work Environment
+1941,Research & Development,Research Director,8.84,Low,Low,1,Work Environment
+1943,Sales,Sales Executive,37.45,Moderate,Medium,2,Workload Management; Work Environment
+1944,Human Resources,Human Resources,88.96,High,High,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+1945,Sales,Sales Executive,29.48,Low,Low,3,Employee Engagement; Work-Life Balance; Work Environment
+1947,Research & Development,Research Scientist,24.38,Low,Low,1,Work-Life Balance
+1948,Research & Development,Research Scientist,33.59,Moderate,Medium,2,Workload Management; Employee Engagement
+1949,Research & Development,Laboratory Technician,33.02,Moderate,Medium,3,Employee Engagement; Work Environment; Workplace Relationships
+1950,Sales,Sales Executive,31.59,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+1951,Sales,Sales Executive,28.61,Low,Low,1,Work-Life Balance
+1952,Research & Development,Laboratory Technician,24.32,Low,Low,3,Employee Engagement; Work-Life Balance; Career Development
+1954,Research & Development,Healthcare Representative,23.99,Low,Low,4,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1955,Research & Development,Healthcare Representative,21.97,Low,Low,1,Workplace Relationships
+1956,Research & Development,Research Scientist,35.97,Moderate,Medium,5,Employee Engagement; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+1960,Research & Development,Laboratory Technician,66.92,High,High,3,Work-Life Balance; Workplace Relationships; Employee Engagement
+1961,Sales,Sales Representative,52.64,Moderate,Medium,5,Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1962,Sales,Sales Executive,32.32,Moderate,Medium,2,Workload Management; Career and Managerial Support
+1965,Sales,Sales Executive,22.86,Low,Low,2,Workplace Relationships; Career and Managerial Support
+1966,Research & Development,Manufacturing Director,31.36,Moderate,Medium,2,Workplace Relationships; Employee Engagement
+1967,Sales,Sales Executive,77.36,High,High,3,Workload Management; Work Environment; Career and Managerial Support
+1968,Sales,Sales Executive,79.86,High,High,5,Workload Management; Employee Engagement; Work-Life Balance; Work Environment; Workplace Relationships
+1969,Research & Development,Research Scientist,22.3,Low,Low,2,Work-Life Balance; Work Environment
+1970,Research & Development,Healthcare Representative,14.35,Low,Low,1,Career and Managerial Support
+1971,Research & Development,Healthcare Representative,24.84,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+1972,Human Resources,Human Resources,31.62,Moderate,Medium,3,Workload Management; Employee Engagement; Workplace Relationships
+1973,Human Resources,Manager,32.62,Moderate,Medium,3,Workload Management; Employee Engagement; Workplace Relationships
+1974,Research & Development,Laboratory Technician,72.91,High,High,2,Workload Management; Employee Engagement
+1975,Sales,Sales Executive,25.09,Low,Low,5,Employee Engagement; Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1976,Research & Development,Research Scientist,10.97,Low,Low,2,Employee Engagement; Career and Managerial Support
+1979,Research & Development,Research Director,15.59,Low,Low,1,Career and Managerial Support
+1980,Research & Development,Manufacturing Director,38.25,Moderate,Medium,2,Workload Management; Employee Engagement
+1981,Research & Development,Healthcare Representative,22.1,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+1982,Research & Development,Laboratory Technician,17.65,Low,Low,0,
+1985,Research & Development,Laboratory Technician,23.65,Low,Low,2,Workplace Relationships; Career Development
+1986,Sales,Sales Executive,16.53,Low,Low,4,Employee Engagement; Work Environment; Career Development; Career and Managerial Support
+1987,Human Resources,Human Resources,45.56,Moderate,Medium,1,Employee Engagement
+1989,Research & Development,Laboratory Technician,20.27,Low,Low,3,Employee Engagement; Work-Life Balance; Career and Managerial Support
+1992,Research & Development,Laboratory Technician,48.6,Moderate,Medium,2,Workload Management; Work-Life Balance
+1993,Research & Development,Healthcare Representative,16.57,Low,Low,4,Work Environment; Workplace Relationships; Career Development; Career and Managerial Support
+1994,Research & Development,Laboratory Technician,47.73,Moderate,Medium,3,Work-Life Balance; Work Environment; Employee Engagement
+1995,Sales,Sales Executive,19.64,Low,Low,4,Employee Engagement; Workplace Relationships; Career Development; Career and Managerial Support
+1996,Sales,Sales Representative,24.53,Low,Low,1,Work Environment
+1997,Research & Development,Manufacturing Director,36.18,Moderate,Medium,4,Work Environment; Career Development; Employee Engagement; Career and Managerial Support
+1998,Research & Development,Research Scientist,30.86,Moderate,Medium,3,Workload Management; Employee Engagement; Work-Life Balance
+1999,Research & Development,Research Scientist,18.54,Low,Low,1,Workplace Relationships
+2000,Research & Development,Research Director,19.2,Low,Low,5,Employee Engagement; Work-Life Balance; Workplace Relationships; Career Development; Career and Managerial Support
+2003,Research & Development,Laboratory Technician,39.5,Moderate,Medium,1,Workload Management
+2007,Research & Development,Research Scientist,13.85,Low,Low,0,
+2008,Research & Development,Research Scientist,18.25,Low,Low,3,Work Environment; Workplace Relationships; Career and Managerial Support
+2009,Research & Development,Healthcare Representative,33.59,Moderate,Medium,4,Workload Management; Work Environment; Workplace Relationships; Career Development
+2010,Research & Development,Laboratory Technician,43.88,Moderate,Medium,2,Employee Engagement; Employee Engagement
+2012,Research & Development,Laboratory Technician,28.42,Low,Low,2,Work-Life Balance; Work Environment
+2013,Sales,Sales Representative,38.13,Moderate,Medium,4,Employee Engagement; Work Environment; Workplace Relationships; Employee Engagement
+2014,Research & Development,Research Scientist,30.12,Moderate,Medium,3,Work Environment; Workplace Relationships; Career and Managerial Support
+2015,Research & Development,Research Director,12.06,Low,Low,4,Work Environment; Workplace Relationships; Employee Engagement; Career and Managerial Support
+2016,Sales,Sales Executive,16.75,Low,Low,2,Career Development; Career and Managerial Support
+2017,Research & Development,Research Director,9.77,Low,Low,4,Workload Management; Workplace Relationships; Career Development; Career and Managerial Support
+2018,Sales,Sales Executive,29.12,Low,Low,4,Workload Management; Work-Life Balance; Work Environment; Workplace Relationships
+2019,Sales,Sales Representative,34.62,Moderate,Medium,3,Work-Life Balance; Work Environment; Workplace Relationships
+2020,Research & Development,Research Scientist,38.73,Moderate,Medium,2,Workload Management; Work Environment
+2021,Sales,Sales Representative,84.14,High,High,2,Workload Management; Employee Engagement
+2022,Research & Development,Manager,10.36,Low,Low,1,Work-Life Balance
+2023,Sales,Sales Representative,89.23,High,High,3,Employee Engagement; Work-Life Balance; Workplace Relationships
+2024,Sales,Sales Executive,18.89,Low,Low,2,Work Environment; Employee Engagement
+2025,Research & Development,Manufacturing Director,24.61,Low,Low,2,Employee Engagement; Workplace Relationships
+2026,Research & Development,Healthcare Representative,15.17,Low,Low,3,Work-Life Balance; Workplace Relationships; Career and Managerial Support
+2027,Research & Development,Research Scientist,32.68,Moderate,Medium,3,Workload Management; Work Environment; Workplace Relationships
+2031,Research & Development,Manager,21.15,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Career and Managerial Support
+2032,Research & Development,Laboratory Technician,66.71,High,High,3,Work-Life Balance; Career Development; Career and Managerial Support
+2034,Research & Development,Manufacturing Director,12.94,Low,Low,4,Employee Engagement; Work Environment; Employee Engagement; Career and Managerial Support
+2035,Sales,Sales Executive,22.75,Low,Low,2,Employee Engagement; Career and Managerial Support
+2036,Sales,Sales Executive,27.92,Low,Low,5,Work-Life Balance; Workplace Relationships; Career Development; Employee Engagement; Career and Managerial Support
+2037,Sales,Sales Executive,22.41,Low,Low,2,Employee Engagement; Employee Engagement
+2038,Research & Development,Research Scientist,24.36,Low,Low,1,Employee Engagement
+2040,Human Resources,Human Resources,37.56,Moderate,Medium,2,Workload Management; Career and Managerial Support
+2041,Sales,Sales Executive,40.67,Moderate,Medium,2,Work Environment; Career and Managerial Support
+2044,Sales,Sales Executive,64.25,High,High,1,Work Environment
+2045,Sales,Sales Executive,29.36,Low,Low,4,Work-Life Balance; Work Environment; Workplace Relationships; Employee Engagement
+2046,Sales,Sales Executive,42.23,Moderate,Medium,0,
+2048,Research & Development,Research Scientist,20.07,Low,Low,1,Employee Engagement
+2049,Research & Development,Healthcare Representative,22.64,Low,Low,1,Workload Management
+2051,Research & Development,Research Scientist,14.09,Low,Low,1,Workplace Relationships
+2052,Research & Development,Research Scientist,19.8,Low,Low,1,Employee Engagement
+2053,Research & Development,Laboratory Technician,35.03,Moderate,Medium,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+2054,Research & Development,Research Scientist,42.09,Moderate,Medium,4,Employee Engagement; Work-Life Balance; Workplace Relationships; Employee Engagement
+2055,Sales,Sales Executive,73.7,High,High,4,Workload Management; Employee Engagement; Workplace Relationships; Employee Engagement
+2056,Sales,Sales Executive,26.09,Low,Low,5,Work-Life Balance; Work Environment; Workplace Relationships; Career Development; Employee Engagement
+2057,Research & Development,Manufacturing Director,20.6,Low,Low,4,Employee Engagement; Work Environment; Workplace Relationships; Career and Managerial Support
+2060,Sales,Sales Representative,37.37,Moderate,Medium,1,Employee Engagement
+2061,Research & Development,Laboratory Technician,17.11,Low,Low,0,
+2062,Research & Development,Healthcare Representative,17.14,Low,Low,4,Employee Engagement; Workplace Relationships; Employee Engagement; Career and Managerial Support
+2064,Research & Development,Manufacturing Director,29.14,Low,Low,4,Workload Management; Employee Engagement; Work Environment; Workplace Relationships
+2065,Sales,Sales Executive,23.1,Low,Low,4,Employee Engagement; Work-Life Balance; Employee Engagement; Career and Managerial Support
+2068,Research & Development,Laboratory Technician,26.65,Low,Low,2,Work Environment; Workplace Relationships

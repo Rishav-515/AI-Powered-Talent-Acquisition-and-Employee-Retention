@@ -1,0 +1,21 @@
+{
+    "primary_model": {
+        "name": "Random Forest",
+        "file": "random_forest_tuned_model.joblib",
+        "threshold": 0.5,
+        "validation_f1": 0.5526,
+        "validation_precision": 0.5526,
+        "validation_recall": 0.5526
+    },
+    "alternative_model": {
+        "name": "Logistic Regression",
+        "file": "logistic_regression_tuned_model.joblib",
+        "threshold": 0.6,
+        "validation_f1": 0.551,
+        "validation_precision": 0.45,
+        "validation_recall": 0.7105
+    },
+    "preprocessor": "attrition_validation_preprocessor.joblib",
+    "positive_class": 1,
+    "negative_class": 0
+}
